@@ -193,3 +193,49 @@ Phương pháp KD và SeqKD có hiệu chuẩn thấp
 Performance on Different Response Length
 
 ![alt text](image-15.png)
+
+![alt text](image-16.png)
+
+Generation Diversity
+
+![alt text](image-17.png)
+
+![alt text](image-18.png)
+
+3.4 Ablation Studies on Optimization Strategies
+
+Effect of Teacher-Mix-in Strength
+
+![alt text](image-19.png)
+
+Effect of Adding Pre-Training Loss
+
+![alt text](image-20.png)
+
+----
+
+![alt text](image-21.png)
+
+![alt text](image-22.png)
+
+Một ví dụ trực quan
+
+![alt text](image-23.png)
+
+A Derivations
+
+A.1 A Perspective of MiniLLM from Inverse Reinforcement Learning
+
+![alt text](image-24.png)
+
+![alt text](image-25.png)
+
+![alt text](image-26.png)
+
+![alt text](image-27.png)
+
+![alt text](image-28.png)
+
+![alt text](image-29.png)
+
+![alt text](image-30.png)
