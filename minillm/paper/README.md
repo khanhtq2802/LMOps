@@ -161,3 +161,35 @@ Khi số lượng tham số của mô hình tăng thì chất lượng cũng tă
 3.3 Analysis
 
 Scaling Law of Teacher
+
+Thông thường huấn luyện mô hình student với teacher lớn hơn sẽ có kết quả student tốt hơn, tuy nhiên điều này không phải lúc nào cũng đúng, thậm chí có thể làm ảnh hưởng đến hiệu năng distillation, để so sánh khả năng scale up của teacher, tác giả so sánh MiniLMM với SeqKD
+
+![alt text](image-11.png)
+
+Exposure Bias
+
+lỗi lúc sử dụng mô hình để sinh văn bản, mô hình không còn có gound truth để dựa vào nữa, phải tự dựa vào các từ mà chính nó đã sinh ra ở các bước trước. Nếu các từ này sai hoặc không chính xác, chúng có thể làm ngữ cảnh bị lệch, dẫn đến việc tạo ra nhiều lỗi hơn ở các bước tiếp theo
+
+khi student được huấn luyện student bằng MiniLLM, student xem những samples được tạo ra bởi chính nó (thể hiện ở chỗ nào trong hàm loss?) nên giảm bớt được exposure bias
+
+tác giả sử dụng metric ExAccErr để đo tích lũy lỗi exposure bias
+
+![alt text](image-12.png)
+
+![alt text](image-13.png)
+
+với MiniLLM ExAccErr ngừng tăng khi số lượng token > 150
+
+Calibration
+
+- các mô hình được huấn luyện với policy optimization có thể có hiệu chuẩn (calibration) kém (xác suất dự đoán không phản ánh đúng độ chắc chắn thực tế, phản hồi quá tự tin trong khi sai, đưa ra xác suất thấp cho các câu trả lời đúng)
+
+- sử dụng ECE scores
+
+![alt text](image-14.png)
+
+Phương pháp KD và SeqKD có hiệu chuẩn thấp
+
+Performance on Different Response Length
+
+![alt text](image-15.png)
