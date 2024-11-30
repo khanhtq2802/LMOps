@@ -150,3 +150,14 @@ Baselines:
 
 ![alt text](image-10.png)
 
+MiniLMM có đa phần có kết quả tốt hơn các baselines khác trong mọi trường hợp
+
+MiniLMM hoạt động tốt hơn nhiều số với các baselines khác với test dataset khác với Dolly, cho thấy sự tổng quát hóa ngoài phân phối tốt (out-of-distribution generalization)
+
+Trong vài trường hợp trên Vicuna, S-NI và UnNI, student còn có kết quả Rouge-L tốt hơn teacher. Tác giả phỏng đoán rằng việc fine-tune standard teacher-forcing trên D mang lại sự khác biệt trong quá trình training và suy luận cho mô hình giáo viên (exposure bias). Nhờ vào policy optimization, student có thể giảm exposure bias này đi
+
+Khi số lượng tham số của mô hình tăng thì chất lượng cũng tăng theo
+
+3.3 Analysis
+
+Scaling Law of Teacher
