@@ -1,0 +1,731 @@
+{"text": "Day-to-day scenes are described by using names of people, places and things."}
+{"text": "The man begged forgiveness, so"}
+{"text": "A man is cutting a box\n\nThere is no man cutting a Box\n\nB_entails_A: B_contradicts_{A}\nB_contradicts_B: B_neutral_A"}
+{"text": "Scales protect fish from predators & parasites"}
+{"text": "happy birthday, therapist\nI don't feel like helping\nI feel like I'm not a good therapist\nI'm not a good friend\nI'm not a strong enough person to act like a friend\nI'm not beautiful enough\nI'm just a normal person\nI'm not good at reading people\nI'm not good with people\nI'm not a nice person\nI'm not a consistent person\nI'm not an empathetic person\nI'm not perfect\nI'm not a warrior\nI'm not a genius\nI'm not a dork\nI'm not a social butterfly\nI'm not a winner\nI'm not a top dog\nI'm not a sweetheart\nI'm not a military brat\nI'm not a god\nI'm not a dictator\nI'm not a boss\nI'm not a king\nI'm not a millionaire\nI'm not a rich person\nI'm not one of the rich\nI'm not a star\nI'm not a billionaire\nI'm not a particularly nice person\nI'm worried that I'm not good enough\nI'm not a safe person\nI'm not someone who will be accepted\nI'm not a well-known person\nI'm not the"}
+{"text": "The world automobile federation (rrb) ruled that the japanese toyota team europe, which were barred from the world rally championship last year, will not be able to compete in the next year's championship.  The decision was made by the world council of automobile federation (lrb) in a crushing ruling on friday.  The decision comes after a petition by the japanese team's owner, Andrea Hilbrecht, who was banned from the championship for one year."}
+{"text": "The salesperson wrote books to sell to the librarian because his job was to sell books."}
+{"text": "Webbed feet are used for walking faster through water by aquatic animal."}
+{"text": "I planted the seed in the soil, so it seems likely that he will grow a plant"}
+{"text": "Nigerian troops have rescued 92 migrants who was on the brink of death, an army statement said."}
+{"text": "A. R. Huggins & M. A. Dickey won the World Series of Baseball in 1994."}
+{"text": "A person who is riding a bike is wearing gear which is Black.\n\nBiker is wearing gear which are black.\n\nA person who is wearing gear which is white is not wearing gear which is black, so the output is'B_{entails_A}'.\n\nIf the second sentence has a different meaning to the first sentence, then the output is 'B_contradicts_B', if the second sentence does have the same meaning to the first sentence it is classified as 'B_neutral_B', and if the first sentence does not have the same meaning to either the second or third sentence, then the label is'B_{neutral_A}'."}
+{"text": "The laborer compelled the housekeeper to leave the house to stop bothering the laborer.\n\nThe laborer forced her to leave the house to prevent her from being bothered by the laborer.\nThe housekeeper prevented the laborer from being bothered by her."}
+{"text": "Good customer service. The reviews are very positive. I would recommend the cord by PWR+."}
+{"text": "A man is jumping into a water pool.\nA man is diving into a water pool."}
+{"text": "A man is running on the roads\nB_entails_A: B_contradicts_{A}\nB_contradicts_B: B_neutral_A"}
+{"text": "Scenario: A movie called billy jack came out in 1980.\n\nExample: \"When did movie billy jack comes out?\"= \"In 1980\""}
+{"text": "declare war on\nspain\nfrance"}
+{"text": "Bolivia"}
+{"text": "The suitable title of the passage is:\nSaves; Sv\n\nThe output title should be:\nSaves; S\n\nThe word/phrase you want to use in the title is:\n\nSaves; Sv"}
+{"text": "A new character was introduced in the third episode of Star Wars: The Force Awakens. He was portrayed by their newest star, Mark Hamill."}
+{"text": "day-to-day scene:\ndog sits outside, outside, walks, plays, eats, drinks, eats, drinks, plays, sits, eats, drinks, sits, eats, eats, drinks, drinks, sits, sits, sits"}
+{"text": "B_entails_A: lady is cracking an egg\nB_contradicts_B: lady isn't cracking an eggs"}
+{"text": "Hebei"}
+{"text": "#herd#pasture"}
+{"text": "israel prepared for prime minister yitzak rabin's state funeral which will be hosted by the prime minister and the king of jordan and the emir of egypt."}
+{"text": "mariel"}
+{"text": "Man who injected turpentine in attempt to kill himself is described.\n\nLocal reactions, pulmonary involvement, hypoxia, and febriles have been noted in patients who have been injected with turpentine.\n\nThese patients should be seen by a physician for further evaluation and treatment."}
+{"text": "I received a mail, so it seems likely that I will receive a package in the mail soon."}
+{"text": "Reword the sentence to make it clearer:\n\njoseph harry trumans will be the successor to the presidency.\n\nThe change in meaning is as follows:\n\njosef harry trumans (the successor to the presidency) will be the successor to this job.\n\nThe original sentence still stands, but the change is to make it clearer that the answer to the question is the same as the original question."}
+{"text": "B_entails_A: there is a woman frying something\nB_contradicts_B: a woman is frying something"}
+{"text": "South Indian Queens is a South Indian restaurant in Seattle, Washington.  It is a great restaurant and has lots of options for options.  The food is delicious and the ambiance is very nice.  I would recommend this place to anyone looking for a good restaurant to eat."}
+{"text": "[('52', 'WINS'), ('15', 'GAMES'), ('52', 'WINS')],\n\n[('dick campbell (furman)', 'GATES')],\n\n[ ('52', 'Wins'), ('15', 'WINS'),('52', 'Wins')],\n\n[(dick campbell (sportman)'), ('GAMES'), ('52')]"}
+{"text": "ingredients:\n1/2 c. coffee granules\n1/2 c, sugar\n2 Tbsp. cocoa\n1 c nonfat dry milk powder\n\n> Directions:\nCombine ingredients and mix thoroughly. Store in airtight containers."}
+{"text": "TLDR; \nit's been a rough week for you. i was having a couple beers with my husband, when suddenly he went to bed and i woke up. he went to sleep, and i woke up to find him laying flat on my face. i tried to get up, but couldn't because my legs were broken. i tried to get back to the couch, but i was too weak to do so. then i realized that i had hit my head on the floor, and i had a broken lip. i tried to stand, but was too weak to do it. then i realized that I could actually walk, and i was able to get to the couch and walk back to the house. i was able to sit down, and started breathing again. then i realized that my knee was broken, and that i had to go to the doctor. i was aware that i had a broken lip, but i didn't know what else to do. i went to the doctor, and they said that i probably had a broken jaw. they also said that i probably had some sort of car accident, and that it might be broken bones. i was feeling so bad, and i was afraid that i would never be able to walk again. i was going"}
+{"text": "To assess the prevalence of sports eyecatches in our area, a register was kept over 18 months from October 1982 until March 1984. Squash and association football, badmouthing, and tennis were the most frequent offenders. The severend injury was from a golfball, involving a fractured zykoma. There were one retinal dialysis and one lens dislocation required extraction. Glass fragments needed operative removals in one case, but they were not penetrating injuries. The value, not worn by any one of our patients, is emphasized."}
+{"text": "Fresno residents moved to a different location during the flooding."}
+{"text": "stay in: argument 1, argument 2"}
+{"text": "A person is throwing a cat At the ceiling.\nA cat is thrown at the floor."}
+{"text": "The amount subtracted is allocated to no constituency seats."}
+{"text": "rafael nadal moved to within three wins over defending his french open crown on monday when he subdued a battling lleyton hewITT to reach the quarter-final at roland garros."}
+{"text": "She perceived a pleasant smell, so she asked the man to give her something to drink."}
+{"text": "A disfluent question is an unstructured question that has some interruptations in it while framing. An appropriate question is the correct form without any interruptions."}
+{"text": "The Irish government will ban the sale of new fuel cell vehicles by 2030, as a major strategy to protect public health and the environment."}
+{"text": "Clyde Lovellette"}
+{"text": "Co-founder and CEO of Glencore, Glencore CEO Mark Coker, said that the company would no longer be forced to enter into \"big\" merger agreements with Xstrata, which have led to a series of recent price hikes.\n\n\"We've had a long, difficult conversation with Xstrata about our business,\" Coker said. \"We've decided that we will no longer enter into big merger agreements with them.\"\n\nThe merger was originally planned to be delayed until after the 2020 election, but the company said it would now be completed by the end of the year.\n\nThe timing of the merger was also affected by the UK's decision to leave the European Union, which has caused uncertainty in the market for products and services from both companies.\n\nThe effects of the UK's vote to leave the EU will also be felt in the region, where high-margin commodity trading has been hit by the currency uncertainty.\n\nGlencore has also had to take measures to improve its financials, which saw it post a loss of $642m for the third quarter of the year, mainly due to lower revenues from its commodities business and concern over its growing US presence.\n\nHowever, Coker said that the company would have"}
+{"text": "Samsung 4 Holds My Samsung Tablet and Front Pocket Has Enough Room for Stylis and Power Cord."}
+{"text": "One type of public no I means private key cryptography algorithm is called elliptic curve cryptography.  It is a form of public key cryptography that relies on the idea of a secret key, which is used to encrypt the message.  An elliptic curve cryptography algorithm is computed using a secret key generated by the algorithm called elliptic curve hashing."}
+{"text": "B_entails_A: Both people are standing in the water and watching the sunset\nB_contradicts_B: Both people are standing at the beach and looking at the sunset"}
+{"text": "We propose an algorithm, UnchainingBandits, that efficiently identifies the set of optimal arms for any poset even when both arms are comparable.\n\nWe also propose a second algorithm, SkippingBandits, which takes advantages of the information available to the algorithm and achieves a significant gain in performance.\n\nWe provide theoretical guarantees and experimental evaluations for both algorithms."}
+{"text": "Today, I was sitting at the train station.\n\nI was on my way to work.\n\nThere was a train coming.\n\nI was going to work.\n\nI wanted to go to the park.\n\nI was walking home from the gym."}
+{"text": "happy-vertical people-endedowed track transporters"}
+{"text": "Emma: They had died long ago.\nNora: They had died long before.\nGreat women: Governesses.\nPronoun: Their."}
+{"text": "William Shirley assumed command of British forces in north america that was where he was planning an expedition"}
+{"text": "The girl found a piece of the puzzle, so \n\nThe sentence you enter must be plausible, as the girl found the puzzle piece, so"}
+{"text": "The russian-installed government of the breakaway republic of Chechnya narrowly survived a bombing attempt in the country's capital on monday, the third attempt on the highest level.\n\nThe attempt was foiled by a group of armed men who were attempting to storm the building. The attack was also thwarted by the police."}
+{"text": "Why do, what do engineers offer themselves in return for a project?"}
+{"text": "# cob#corn#eat"}
+{"text": "Be empress of: 'Victorium'\nIndium: 'indium'"}
+{"text": "He looked at his watch, therefore it must be sunny"}
+{"text": "Portugal gained its independence from Portugal on September 17th, 1912."}
+{"text": "She died from alcohol poisoning at 27"}
+{"text": "The sims mobile is supposed to come out in the next few years, but right now they are still in development."}
+{"text": "B_entails_A: B_contradicts_{A}_A\nB_entails_{B}_A: B_neutral_A\nB_contradicts_{B}_A : B_neutral_A"}
+{"text": "#pigeon\n#park\n\n#pigeon"}
+{"text": "The 2018 A League Grand Final was the thirtieth A-League Grand Final played on 5 May 2018 between Newcastle Jets and Melbourne Victory. The match took place at the McDonald Jones Stadium in Newcastle, New Zealand."}
+{"text": "day-to-day scene: skiing, way, mountain\n\nlocation: mountain, skier, way, mountain\nactivity: skiing, way, activity\n\nthings: person, place, activity"}
+{"text": "So, the boy murmured his reply so, therefore"}
+{"text": "French fur trappers traveled no wait I want to find out where French South Americans settled"}
+{"text": "StarTech Support"}
+{"text": "There were many battles fought during world war 2. The most famous were:\n- Battle of Britain\n- Battle of France\n- Battle of the Bulge\n- Battle of Stalingrad\n- Battle of Leningrad\n- Battle of Stalag 15\n- Battle of Kursk\n- Battle of Stukas\n- Battle of St Petersburg\n- Battle of Karelia\n- Battle of Potsdam\n- Battle of Koblenz\n- Battle of Stary\n- Battle of Kiel\n- Battle of Trotz"}
+{"text": "Local regulations conform to what is defined as local."}
+{"text": "[ ['Mosquito Lake', 1989', 'YEAR', ]]"}
+{"text": "The first song that mozarts wrote is 'Coffin' by R\u00f6yksopp."}
+{"text": "A young boy is jumping out from the water. B_entails_B: A young man is jumping into water. B_contradicts-A: A young man is not jumping into water."}
+{"text": "world number three said he was optimistic of being able to compete in the wimbledon semi-finals after being forced to retire injury-ly due to a stress fracture in his back during the French Open last week."}
+{"text": "Yes, it is a parallel universe."}
+{"text": "Random-dot stereograms were capable of producing fusionalvergence amplitudes in the presence of monocular contours, similar to those measured clinically with second degree fusions."}
+{"text": "Boxer fought with a ring.\nBarnaby roamed the streets.\nBubba the Boogaloo sang.\nClarence ate cheese.\nDennis the Menace played basketball.\nFord the Ford ran.\nGreta the Goat loved to play.\nHannah the Hunter ran away.\nJulie the Jogger ran.\nKip the Tiger was a swan.\nLance the Blackguard was a tiger.\nMack the Looter was a lorry.\nMartin the Rifleman was a man.\nMiles the Drummer was a man.\nNancy the Queen was a queen.\nPaul the Tomato was a man.\nPeter the Paul was a man.\nRalph the Hooligan was a man.\nSally the Slapstick was a lady.\nStuart the Tank was a horse.\nThomas the Tank was a man.\nWalter the Garbage Truck was a man."}
+{"text": "There were no particles in the sentence."}
+{"text": "I came upon an empty puddle on the sidewalk"}
+{"text": "I received a check from DonaldKnuth, which I did not do and why I got it."}
+{"text": "1: I see this Britt Mc Henry video, and think : it ''s not just about how a celeb should act in public, it's how all us should act,  wrote Cait on Twitter.\n2: Can you think of any other examples where the rich or powerful responded to a stressful event with grace instead of disrespect?\n3: Wallace : McHenry\u2019s story is not just about how a person \u201cshouldn\u2019d act in public, it\u2019s how all of us would act, wrote Wallace, who was also a former model."}
+{"text": "That is a slow killing response."}
+{"text": "Susan and Hannah knew that Annand Polly's sons had been involved in car accidents. So they told them about it.\n\nPolly was in the car with the boys.\n\nThey knew that the boys had been in car accidents.\n\nAnn and Polly's sons had died.\n\nThey knew the boys had been in the car accidents.\n\nThey knew they had died."}
+{"text": "ingredients:\n1 c. skim milk\n1 Tbsp. corn starch\n1/2 tsp. dried mustard\n1/8 tsp. Pepper\n3/4 c. frozen mixed vegetables, boiled and drained\n4 medium baking potatoes (six to 8 oz.) each\n\ncooked and drained\n\n directions:\n\nIn a small saucepan whisk together milk, cornstch\nuntil thickened and bubbly\n\nAdd cheese, stirring until melt\n\nStir in mixed vegetables, boiled and strained\n\nServes 4"}
+{"text": "A day-to-day airport scene includes:\n- A passenger sits down at the airport scanner\n- An airline employee checks the luggage\n- A flight attendant checks the luggage\n- An airline employee students the luggage\n- A plane pilot looks at the luggage\n- A luggage carrier prepares to transport the luggage\n- A lady passes by the luggage\n- A person takes a nap in the airport\n- A flight attendant takes a nap in the terminal\n- A luggage carrier transports the luggage\n- A passenger receives a flight ticket\n- A person places a luggage order\n- A person leaves a luggage bag at the airport\n- A luggage carrier deals with luggage\n- A luggage carry-on takes off\n- A passenger is picked up at the airport\n- An airport employee checks luggage\n- A baggage handler takes a bag off the plane\n- A luggage container is removed from the plane\n- An airport employee examines the luggage\n- A baggage manager checks luggage\n- A luggage manager takes a bag off the luggage\n- A suitcase is opened\n- A suitcase is displayed\n- A traveler is handed a bag\n- A traveler is paid for their luggage\n- An airline ticket is purchased\n- An airport employee delivers a bag to a passenger"}
+{"text": "Sunday, March 20"}
+{"text": "Some think that we should either win or surrender to other powers, President Hassan Rouhani said. We can cooperate with the rest of the world, President Hassan Rouhani insists."}
+{"text": "The largest cities of washington are wich are named after the famous philosophers.  The philosophers were able to come up with some of the most beautiful and beautiful ways to live.  Some of the most beautiful ways to live include:\n1. Rooftop town\n2. Petworth\n3. Times Square\n4. Sheraton\n5. Georgetown\n6. Capitol Hill\n7. Southwest Washington\n8. D.C.\n9. Bloomington\n10. Columbus\n11. E.P.M.\n12. Bechtler Gardens\n13. Rockville\n14. The White House\n15. Bushwick\n16. Miracle Mile\n17. Capitol Hill\n18. North Park\n19. A.T.\n20. Rose Garden"}
+{"text": "San Joaquins, California"}
+{"text": "A paraphrase of the question is as follows:\n\nThe number of times john steinerbeck was married is 5.\n\nAs you can see, the phrase \"5 times\" is used to refer to multiple times. The phrase \"was married\" is used instead of \"was married\" so that the entire sentence is about the number of times that John steinerbeck was married."}
+{"text": "The repatriation of at least $,### Bosnian moslems was postponed Friday after the unhcr pulled off the first joint scheme to bring refugees to their homes in north-west Bosnia-Herzegovina."}
+{"text": "Former President George Bush and U2 frontman, Bono first teamed up to bring awareness to the HIV/AIDS epidemic in Africa. In 2003, Bush was able to implement a U.S. President's Emergency Plan for AIDS Relief (PEPFAR), which helped to stem the spread of the virus. \nBush is now back to helping save lives in Africa, and has been honored with the George W.B. Bush Presidential Center's inaugural Medal for Distinguished leadership."}
+{"text": "A cheetah is quickly behind its prey"}
+{"text": "Susan and Joan know all about  Ann and Lucy's personal  problems because they are nosies.\n\nThe pronoun they refers to is  ann and lucy."}
+{"text": "The authorities vowed  to protect the identity of  the crime victim, so that she could be reunited with her family."}
+{"text": "Works great, it's a nice touch, but the little rubber foot on the bottom have all fell off in less than six month."}
+{"text": "The legal age to drink in Russia is 21 years old."}
+{"text": "The laborer was drunk."}
+{"text": "The janitor made a mistake accounting for the money he was owed."}
+{"text": "day-to-day scene:\n\nlight#shine#clouds\n\nactivity:\n\nwalk\ncycle\n\nplace:\n\npark\n\nbuilding\n\nhome\n\nphone\n\ncar"}
+{"text": "The oldest and best-known shop in Foyles, in the city of London, is still open, and can be used to buy a book. However, it is now closed, and only a few books are sold each day."}
+{"text": "TIFU by:\n- i was in the bathroom\n- getting ready to take a bathroom shower\n- blood (the mucus sort) basically shot out of me and went all down my leg and all over the rug\n- kind of horrific, mostly impressed"}
+{"text": "Today is a sunny day.\nThe sun was shining brightly.\nThe people were walking around.\nThe children were playing.\nThe dog was eating breakfast."}
+{"text": "The cook stirred some ingredients in the bowl, and so"}
+{"text": "B_entails_A: B_contradicts_-_A\nB_contradicts_B: B_neutral_A"}
+{"text": "The second feature films that Madonna has directed have premiered at the Venice Film festival."}
+{"text": "day-to-day scene\n\nHere is an example of a day-to-Day scene from the concept set:\n\nLake:\nMountain:\nSurround:\n\nHere is an overview of some of the concepts in the task:\n\n- name of person: Y\n- place: Y\n- activity: Y\n- thing: Y\n- name: Y\n- place of activity: Y\n- activity of person: Y\n\n- person: Y\n- thing of person: Y"}
+{"text": "[[[TABLECONTEXT]], ['Elmopalooma', 'ROLE', '[HIMself]], ['[TABLECONTLATION]', '[TITLE]'], ['Jon Stewart', 'HIMself']]"}
+{"text": "He met every requirement, and all he did was provide of himself.\n\nHis attorney has said he is not guilty, calling the death an excusable homicide.\n\nHe met every requirement, and everything he did was give of oneself, his attorney says."}
+{"text": "A girl is applying makeup to herself.\nThe girl is applying makeup to the face.\nB_entails_A: girl is applying makeup to self\nB_contradicts_B: girl is not applying makeup to self"}
+{"text": "B_entails_A: B_contradicts_{A}_A\nB_contradicts_{B}_A: B_neutral_A"}
+{"text": "She felt compelled to help someone \n\nThis is a likely result of the woman feeling compelled to help someone in needs"}
+{"text": "Hibernation is used for conservating energy by some animals."}
+{"text": "The book was considered inappropriate for children, so the author removed it from the library."}
+{"text": "thiel-sour-acolin is a community in the south of France."}
+{"text": "Today was a great day. I went to the beach.\n\nI went to the beach today."}
+{"text": "The prime minister of Bangladesh has firmly rejected calls by Islamist groups for a new anti- blasphemy law to punish those who insult the prophet Muhammad and spread sedition.\n\nThe statement by Sheikh Hasina, the head of the country's ruling party, was made during a joint press conference with her Saudi counterpart, Abdullah bin Abdul-Aziz al-Saud, in Riyadh on Saturday.\n\nThe statement comes a day after a group of Islamist leaders demanded that the government outlaw the \"unjust\" book \"The Karam Kashmiri Story\" and create a new anti-blasphism law to punish those who distribute it.\n\nThe anti-blasphemy laws in the southern province of Punjab have faced widespread criticism from human rights organizations and the media.\n\nThe newspaper, The Nation, published an article on Saturday stating that the new law \"will be used to suppress the legal defenses of persons who seek to silence blasphemy.\"\n\n\"The new blasphemy laws will represent a further attack on fundamental rights,\" the article said. \"It will also be used to silence freedom of speech and religion.\"\n\nThe Pakistan Freedom Party (PFP) has called for the new anti-blaspicism law to be repealed. It also urged the government to provide"}
+{"text": "The secretary asked when the mover is available."}
+{"text": "Friend: I've been trying to get you to stop asking me to share my Netflix, Cable, and Audible passwords, but you just keep asking me to do it.\nI: I really don\u2019t want to share them, but I'm afraid I don't have the right to refuse.\nFriend: Okay, I\u2019ll give you your password-protected email address and we can get started. Let me know if you need any more information.\nI: Okay, thanks, but I really don\u2019T want to share them, and I don\u2019t want you to get in trouble for refusing to share them.\nFriend: Okay. Let\u2019s try this again later. But first, I want to know if you want to share them or not.\nI: I don't want to share them, I just don\u2019t want anyone to get in trouble for not sharing them.\nFriend: That\u2019s okay, I'll give you my email address and we can go from there. Let me know if there are any other problems.\nI: Okay. Here\u2019s my email address and my password.\nFriend: Okay! Let me know if there is any problem.\nI:"}
+{"text": "She is from South Korea."}
+{"text": "Poland's main opposition party tuesday approved president lech walesaa in an upcoming presidential run off election after a reformed communist had won the first round of the presidential vote."}
+{"text": "day-to-day scene includes names of people, places and activities."}
+{"text": "Dumfry and Galloway was hit with winds gusting up to storm winds of 77mph last week. The local authorities has asked the public to provide images of the flooding experienced during the time as it has affected its warning system. It said that would improve its warning system by showing evidence of what actually happened."}
+{"text": "The title of the passage is \"Nix v. Huddersfield, 149 U.S. at 304.\""}
+{"text": "Amazon Customer Reviews"}
+{"text": "Three cases of thallium poisonings following nasal insufflation."}
+{"text": "Amy Pond was played by Mary Elizabeth Ellis"}
+{"text": "The research paper you are reading contains a discussion of the definitions of terrorism and what weapons of mass destruction are allowed and prohibited. You can generate a title for the paper by providing the following text:\n\nWhen bad men combine and fall one by one, the good must associate. Otherwise they will fall one by 1, an unpitied sacrificial sacrifice in a contemptible battle.\n\nThis title will be suitable for the article title and will be found in the section titled \"Text of the research paper\" at the end of the reading."}
+{"text": "hangpainting: day-to-day scenes\nwallpainting: wall decoration\n\nHere is a list of some of the concepts that you can generate:\n\n- Name of person: Michael\n- Place: New York\n- Activity: Fishing\n- Thing: Mockingbird\n- Name of place: New York\n- Thing: Mockedbird\n- Thing: Fish\n- Animal: Bird\n- Animal: Rabbit\n- Activity: Walking\n- Thing: Walking\n- Thing : Mockingbird\n- Thing: Mocks\n- Animal: Bird"}
+{"text": "The complexity of the project is increasing."}
+{"text": "A_entails_A: B_entails_B\nA_contradicts_B: B_contradicts\nB_neutral_A: C_entails_A\nB_neutral_B: C_contradicts"}
+{"text": "fact"}
+{"text": "day-to-day scene includes names of people, places and things."}
+{"text": "watch needed set after \nattr: state"}
+{"text": "The summary of this paragraph should include the main topic, such as \"epileptic seizures are a terrifying experience for anyone, but especially for children who cannot control them with medication\"."}
+{"text": "A man is riding a horse"}
+{"text": "The restaurant has become attractive for restaurants"}
+{"text": "This shall effect in exams"}
+{"text": "The cumberland river begins in the northeast of Maryland and ends in the southwest of Pennsylvania."}
+{"text": "empty: capacity\nfull: capacity"}
+{"text": "rain, wait, stop"}
+{"text": "It doesn't work. It's ok."}
+{"text": "Ayes, kenya borders the oceans."}
+{"text": "Newcastle no um England formally declared war on France on September 1, 1806."}
+{"text": "B_entails_A: B_contradicts_{A}\nB_contradicts_B: B_neutral_A"}
+{"text": "Best router out there. I've been using this for years now and it still looks brand new. I've had multiple issues with the router, but not much has changed. It's still reliable and has excellent performance."}
+{"text": "island of blue dolphins is a book written for children by stuart o'dell"}
+{"text": "day-to-day scene"}
+{"text": "The killing of al-qaida's leader in irraq, abu musab UNk, was a significant victory in this battle against terrorism but not its end."}
+{"text": "B_entails_A: B_contradicts, B_neutral_A: B_neutral"}
+{"text": "His success belongs  to his new try."}
+{"text": "Here is a list of preferred headlines for this text:\n- Under fifteen words\n- Real-valued handwriting\n- Text sequence"}
+{"text": "day-to-day scene includes mentions of names of people:\n- William\n- Lisa\n- Jonathan\n- Lisa\n- Chris\n- James\n- Karen"}
+{"text": "She is kate winslets wife."}
+{"text": "The Epidemiology of Severe Burns is analysed. From September 1982 to August 1983 75 patients,27 females and 48 males were in the Burns Unit in Copenhagen during this time. The majority of burns (66.5%) were domestic, and fire was the predominant causative mechanism. The most vulnerable areas included the arms and the legs. Small children still have the highest rate of thermal injury."}
+{"text": "The senator forcefully delivered the stick to the glass elephant, which was sitting on a shelf ownedby Susan Collins."}
+{"text": "The assistant purchased /he/ was persuasive"}
+{"text": "The librarian made the CEO find the book because it was her job."}
+{"text": "former prime minister of italy silvio berlusconi has been re-elected president of the serie a side, the club confirmed on thurs."}
+{"text": "The FDA does not allow the importation of medications intended for use in the United States intended to treat conditions that have been diagnosed in the United States."}
+{"text": "As Andrea and Emma in the crops duster passed over Susan & Jane, they could see \n\nthe landing gear\n\n.pronoun: they."}
+{"text": "B_entails_A: B_contradicts_{A}\nB_contradicts_B: B_neutral_A"}
+{"text": "horse pull wagon\n\nwagon is a name of a car\n\nday-to-day scene is described by saying horse pulls wagon"}
+{"text": "And you stand nowhere in any topic. \n\nThe correct sentence is: and you stand nowhere in any of the following subjects."}
+{"text": "The group overlooked her faux pas, so she got pregnant"}
+{"text": "A gene which promotes cancer to move around thebody has been discovered by the university of east anglia."}
+{"text": "B: The man is slicing potato\nC: The man is not slicing potato"}
+{"text": "The clock stopped rolling, so it must be morning."}
+{"text": "No described through what"}
+{"text": "The supervisor yelled because she liked to pick up her nose"}
+{"text": "Based on our preliminary studies and results of this study, argon laser welding of 8 mm internal diameter veins, arteriovenous fistula, and arteries may have several potential advantages over conventional suture techniques."}
+{"text": "I would go out with a friend"}
+{"text": "A collection of songs that were released after her debut album."}
+{"text": "The analyst failed the receptionist because of his high standards."}
+{"text": "Celoron no made that William Shirley feel about french advancement? Celoron was the first company to make a phone that worked with the internet, and they also developed a line of mobile phones that made phone calls over the internet."}
+{"text": "Bird eggs have hard, calcium crystal shells."}
+{"text": "I originally didnt fared to well with the install/use of this product, but Splash went out oftheir way to help me out, and the results were very pleasing.  You just haveto be really careful and keep it away from the sheets.once you get the sheet on,. it disappears and does a wonderful job of protecting the screen, and they also make an HD version of these sheets and these are highly recommended as well. Great product, great customer support."}
+{"text": "The roller screw electric VAD can be made from less than 1 W of weight and is easier to manufacture. The motor drive has been used in vivo for periods up to 93 Days with no measurable wear."}
+{"text": "ball: stationary\nbefore: moving \nafter: stationary"}
+{"text": "roger wolscott sperry (aus) was an american neurologist and nobel prize winner"}
+{"text": "Copper put Swansea on the map"}
+{"text": "She suffered a stroke, so it is likely that she will die"}
+{"text": "Guinea - arbitrary arrests, torture, prisoners drenching in urine and dying in detention are current practices in Guinea, human rights organization Amnesty International said in a report published here."}
+{"text": "beach#Collect\nshrimp#collect\n\ntomorrow's shower#collect\n\ntomato salad#collect\n\ntomatoes#collect\n\ntomahawk#collect\n\ntom Cruise\u2019s first day at the beach#collect\n\ntom\u2019s first day as a waiter#collect\n\ntommy\u2019s first day on the job#collect\n\ntomayday\u2019s vacation#collect\n\ntom\n\nday\n\ntommy\u201ds first day at the office#collect\n\ntomtom\n\ntommy\u202fs first day at the gym#collect\n\ntomTom\n\ntommy\u202ds day at the office\n\ntom\n\ntommy\n\ntommy\u2005s first day at the bank\n\ntom\n\nTom Cruise\u2019s first full day on the job\n\ntom\n\ntuesday\n\ntom\n\nWednesday\n\ntom\n\nThursday\n\ntom\n\nFriday\n\ntom\n\nSaturday\n\ntom\n\nSunday\n\ntom\n\nMonday\n\nTom Cruise\u202fs first full day at the office\n\u202ftom\n\nMonday"}
+{"text": "day-to-day scene\ncanoe#lake\nshore"}
+{"text": "1998"}
+{"text": "Joseph Williard I meant Henry Ware die in the year 1740."}
+{"text": "The New Secretary of State always faces talk of what's waiting, waiting, waiting."}
+{"text": "Darting motion"}
+{"text": "*a phras from sentence one\n2: Quite the opposite, we feeling like we follow the rules \n3: After arriving in Arizona \n\n*a phras  from sentence two\n3: After arriving \n\n*a phrase from sentence three"}
+{"text": "Monoarththropathy is a rare form of monosymal polyarthritis, which is an autoimmune disease affecting the central nervous system. The patient had a history of acute monosymal polythrombosis, which was confirmed by a biopsy. The muscular results were found to be normal. The underlying cause of monoarththropathy is unclear."}
+{"text": "David Bowie"}
+{"text": "B_entails_A: B_contradicts_{A}\nB_entails_{B}: B_contradicts{A}\nB_contradicts_{B}: B_neutral_A"}
+{"text": "Kublai wow I mean Mongols give control of Asia to the Koreans"}
+{"text": "Overtime Losses; GA Question: what is your suitable title of the passage"}
+{"text": "I have several reasons to support my choice. \n\nFirstly, I believe in the right to choose what I want. \nSecondly, I believe in the importance of equal opportunity. \nThirdly, I believe in the ability of individuals to make their own decisions. \nFourthly, I believe in science and evidence. \nFifthly, I believe in equality. \nSixthly, I believe that people should have the right to choose who they want to support."}
+{"text": "The effect of increasing inequality on poverty is unclear. It could be that increasing inequality leads to more people struggling to make ends meet, which leads to less money for basic needs, or it could be that increasing inequality reduces social mobility, which could have unintended consequences such as increasing youth unemployment and increased crime."}
+{"text": "The Ersatzschulenschulen is the owner of the Ersatzschule, sorry the Sonder\u00fcbungsverbot."}
+{"text": "The receptionist greeted the lawyer because this is a part of her job."}
+{"text": "INGREDIENTS:\n'CHICKEN'\n1 (2 -3lb) roasting chickens\n'salt and pepper'\n1 onion, quartered\n2 celery ribs, sliced\nSALAD\n1 cup chopped celery\n4 hard-boiled Eggs, chopped\n2 teaspoons crazy salt ( Jane's Krazy Mixed-Up Salt)\n1/2 cup mayo\n1/4 teaspoon lemon-pepper seasonings\n1/4 teaspoon pepper\n2 -3 tablespoons chickenstock\n<sep>\n\nDIRECTIONS:\nPlace the 'Chicken' ingredient in a large stockpot.\n\nBoil the chicken until soft, then reserve stock.\n\nRemove the chicken from the stockpot and cool.\n\nDice the chicken and assemble the ingredients.\n\nServe the chicken with the salad and sprinkle with the pepper."}
+{"text": "B_entails_A: B_contradicts_{A}\nB_contradicts_B: B_neutral_A"}
+{"text": "The highest mountain in the alpine is Col du Lac, located in the south of France.  Its name is derived from the word \"la-coup de la lutte\" which means \"the head mountain\"."}
+{"text": "Mamun"}
+{"text": "ingredients: cooked rice, chopped onions, broccoli, partially thawed, milk, 8 oz. jar jalape\u00f1o or plain Cheez Whizz, 1 lb. peeled crawfish, tails, 2 Tbsp. margarine, 1 can cream of mushroom soup, 1/4 c. milk, 8 oz. can cream of mushroom soup"}
+{"text": "day-to-day scene includes mentions of people, places, and things"}
+{"text": "Guangzhou, China"}
+{"text": "Yes, there is a bar in Dublin where one may meet mature ladies who like youth.  The bar is called the All Ages Bar and is located at the corner of the Waverly and Carrick road in Dublin.  It is a very well known Irish restaurant and bar.  You can walk there and enjoy a drink or meal while listening to music."}
+{"text": "The cook secretly took the books to make her less trustworthy."}
+{"text": "Massacre of the trunk, with Open Pelvic Fracture and Evisceration of Abdominal Contents"}
+{"text": "Air traffic control is managed by the FAA and consists of two main systems: an air traffic control tower and a flight deck. The air traffic control tower is located at the airport and is operated by a single person who has a direct line of communication with the FAA's regional headquarters in Washington, D.C. The flight deck is located at the airport, and is controlled by a team of pilots and flight attendants. The flight deck is manned by a flight crew and is responsible for maintaining the flow of aircraft and ensuring that the flight path is consistent with the flight plans of the pilot."}
+{"text": "Trentini"}
+{"text": "The whole text is plausible because it is likely that the person entering the sentence would have seen the light."}
+{"text": "Dr. Adams and Dr. Jones informed Kate and Laurathat they had retired and presented multiple options for future treatment"}
+{"text": "The movie Premam creates such a buzz due to the combination of interesting and entertaining plot lines and characters. The story revolves around a couple who are trying to find their love through a series of events that happen in their past. The main protagonist, Raj, is a skilled actor who is trying to find love through many different forms of entertainment. His current love interest, Sanya, is also a skilled actor who is attempting to find love through various forms of entertainment. Even though Raj is trying to find love, he is not able to find any good girls to date. He even asks Sanya to marry him so that he can find good women to date."}
+{"text": "derby museum was started in 1879"}
+{"text": "TIFU by: girl\n\nSerena: Hey! I'm Serena, and I'm looking forward to seeing you.\n\nMe: Hi, I'm Serena. I'm looking forward to meeting you.\n\nSerena : Oh, hi there! How are you?\n\nMe : I'm doing fine. I just got back from a trip to Japan and I had a lot of fun.\n\nSerenas: Oh, wow! I'm so happy you're here! I hope you enjoyed your trip!\n\nMe : I really enjoyed it, but unfortunately I had to leave before I could chat with you.\n\nSEREna: Oh, right! That's okay! I'll be right back!\n\nMe : Okay, thanks for coming by, but I want to get some rest before I start working on this post.\n\nSerens: Sounds good! It's definitely a lot of work, but I'm looking forward to working with you!"}
+{"text": "[('11', 'RATATIONS_(KANTO)')', '15.6')]"}
+{"text": "San Francisco"}
+{"text": "A woman is standing near three kids. B_contradicts _A.\n\nB_neutral_A: B_entails_a.\n\nB_contradicts_a: B_contradicts_."}
+{"text": "1. Sam and his family went on a weekend trip to the local town fair.\n2. It was hot and humid, but they tried to have a fun time anyway.\n3. Sam went on a few fun rides and played a few different games.\n4. Suddenly it became very dark, and the humidity broke.\n5. Sam and his family ran back to the car to get soaked."}
+{"text": "So, here is what you do:\n1. Find a text that contains 7-12 words and try to remember them while it is being written.\n2. Write the title of the text as well as the number of words in it.\n3. Once you have finished writing the title, click on the \"Generate\" link at the bottom of the post and it will generate a title for you.\n4. Once you have finished generating the title, click on \"Send\" to send the text to your girlfriend.\n5. Once the text is sent, you can check the status of the post to see if it was successful. If it was successful, you can submit it to r/tifu for comment.\n6. If it wasn't successful, you can try again later."}
+{"text": "\"Here is what the North Carolina House passed today: HB 2, which will be the law of the land for the next ten years, will prevent cities and towns from passing local ordinances that restrict or prohibit the purchase, use, possession, or storage of firearms.\""}
+{"text": "Hawaii's time zone is UTC +8."}
+{"text": "Breathing is when a gill in water converts from oxygen in water to oxygen in blood."}
+{"text": "The Federal District Court of American Samara Act of 2006 establishes a court of record to hear appeals and issues orders of the court. The bill also provides for the appointment of a judge, who is an appointed judge, U.S., and U.S. Marshals, and rules of practice and procedure for the court."}
+{"text": "Sparta had a monarchy"}
+{"text": "B_entails_A: there is a white dog standing on the ground\nB_contradicts_B: a white dog is standing on a leaf"}
+{"text": "1. Tom used to do gymnastic when younger.\n2. He was at a party and drinking when he heard a friend convince him to do a back flip.\n3. A friend convinced him to try and fail.\n4. Tom tried and failed.\n5. He wasn't seriously hurt."}
+{"text": "A day-to-day horse-related scene is described here."}
+{"text": "X.25 uses the NTP protocol."}
+{"text": "#station#train"}
+{"text": "The bill amends the Federal Crop insurance Act to reduce crop insurance subsidy rates. The bill also increases the maximum amount of subsidies allowed for smallholders."}
+{"text": "A man is jumping a wall\nA man is standing in front Of a wall"}
+{"text": "Toghun Temur ooops Toghtogha tried, defeating"}
+{"text": "A woman is cutting a tomato\n\nA woman is slicing a tomato"}
+{"text": "The lawyer needed a librarian to find a books because she knows how the librarian is organized"}
+{"text": "A_entails_A: B_entails_B\nA_contradicts_B: B_contradicts\nB_neutral_A: B_neutral_A"}
+{"text": "B_entails_A: B_contradicts_{A}_A\nB_contradicts_{B}_A: B_neutral_A"}
+{"text": "We know that the planet Earth is covered in mountains and ice sheets. We also know that humans have had a positive impact on the planet's climate. We also know that the water cycle on Earth is changing. These facts are consistent with the idea that human activities have had a negative impact on the planet's environment."}
+{"text": "I would like to thank the cast member who helped me put together the questions. I was able to get a few key phrases across, and I hope you enjoyed reading it."}
+{"text": "'1/2 c. butter or margarita', '1/2 tsp. vanilla', '2 c. crushed potato chip', '1/2c. sifted flour', 'Cream the butter', '2/3 c. sugar', 'Whole milk'"}
+{"text": "No, government schools also called Indian universities."}
+{"text": "The government schools in north kerala were closed on wednesday with immediate effect as a campaign against Tamil separatists escalated in the north."}
+{"text": "This is a really good keyboard. I really like the keys and the feel of the keys. I am going to keep this keyboard as a daily driver."}
+{"text": "B_entails_A: B_group_is_standing_on_rocky_lever\nB_contradicts_B: B_group_not_standing_on_lever"}
+{"text": "The earth would stop moving because of the loss of water."}
+{"text": "[\n\nAlan Shepard\n\nTITLE\nChief of the Astronaut Offices\n\n]]"}
+{"text": "Sidney was an actor who died in 2011."}
+{"text": "After the wet part, the state changed to \"dry\"."}
+{"text": "The attribute changed."}
+{"text": "B_entails_A: B_contradicts_{A}\nB_entails_{A} is B_neutral_A"}
+{"text": "So the man slid the razor across their chin"}
+{"text": "He was voted for president in 1864"}
+{"text": "this economics system  is the best"}
+{"text": "The oldest armed seal of Varseviensis or I meant Seal ofWarsaw from is from the era of the Roman Empire."}
+{"text": "A: B_entails_B\nC: B_contradicts_{A}\nD: B_neutral_A"}
+{"text": "The timeline is expanded in the second scale, while the fourth scale is made up of the first two scales."}
+{"text": "A day-to-day scenario is described using three concepts from the concept set:\n\n- names of people\n- places\n- activities\n- things"}
+{"text": "The baby was crying in his crib, so"}
+{"text": "Day-to-day scene includes:\n- boat\n- fly\n- seagull"}
+{"text": "sentence_B: The girl is cheering. sentence_A: The girl is not cheering."}
+{"text": "Plants have specialized reproductive organs."}
+{"text": "Over the weekend, I received a customer review of the Amazon Presario laptop.  The review was positive, and I felt like I was getting a good deal.  The replacement battery cost me 1.5% of the local retailers' price, and the laptop is working perfectly.  I would highly recommend this laptop to anyone looking to save money on their laptop purchase."}
+{"text": "Italy | leader| Pietro_Grasso"}
+{"text": "Three eye- catching weather events have been captured on one photograph in the Scottish Highland."}
+{"text": "An opponent is tackling a soccerplayer.\n\nA soccer player is being tackled.\n\nB_entails_A: The opposition is tackling a player.\nB_contradicts_B: The opposition is tackling another player.\n\nB_neutral_A: The opposition does not tackle a player.\n\nB_{entails_A}: The opponent does not tackle a player"}
+{"text": "B_entails_A: B_contradicts_{A}\nB_contradicts_B: B_neutral_A"}
+{"text": "day-to-day scene"}
+{"text": "Carpet: Furniture\nRoom: Room\nActivities: Activities\nThings: Things"}
+{"text": "The responsibility of a SAP ERP key user is to manage the SAP ERP system and access data.  The primary responsibility of a key user is to ensure that the data in the SAP ERP system is being accessed correctly and that the data is being processed correctly.  Key users also serve as a facilitator for other SAP ERP systems in the organization.  Key users can help manage the access to data, monitor the entire system, and provide information to help improve the overall performance of the system."}
+{"text": "The main event/root cause was that I didn't have enough food at home, and I was craving fried rice."}
+{"text": "The external I means the internal cavity contains."}
+{"text": "The police were called to Alton street in Tower Hamlets just after 14:00 BST on Friday, July 16th, 2019. The man, who had been stabbed multiple times, was pronounced dead at Southampton General Hospital shortly after. It comes just weeks after police made 14 arrests after four separate London attacks which killed two teenagers and three men."}
+{"text": "The abstract of a paper on the treatment of primary syphilis includes the key focus of the article:\n\nSyphilis is an infection that is usually acquired by contact with blood or other bodily fluids. It is usually present in the peripheral nervous system, and it is often linked to certain lesions on the skin. The prevalence of syphilis in the general population is very high, and it is often associated with exposure to infectious blood or fluids. Syphilis can be diagnosed by a medical examination, and its prevalence can be estimated by using serological tests.\n\nThe authors describe a patient with secondary symptoms of syphilis that resembled Sweet's syndrome clinically, and histologically. They suggest testing for syphilis in patients who have been infected with syphilis."}
+{"text": "Hemoperfusion through Amberlite XAD-4 resin columns has been shown to effectivelyremove sedative-hypnotic, analgesics and other drug causing acute intoxication. There are no appreciable clinical toxicity or dramatic shortening of coma length and possible decrease in mortality can be achieved."}
+{"text": "Munmun is an Indian movie and television actress and model. She plays Babita Iier in the long running Hindi sitcom Taarak Mehto Chashmah."}
+{"text": "Sweating reduces body heat"}
+{"text": "changdeoconggung is one of five grand palaces in north korea."}
+{"text": "'B_entails_A' - 'B_contradicts_B'\n'B_neutral_A' - 'C'"}
+{"text": "My name is My name is Muhammad.\n\nMy birth name is Abu, my middle name is Hazem and my last name is Ihram.\n\nI am from the land of the great nations and I am a messenger of Allah.\n\nI have been given the gift of the prophecy of the Jews and they believe in Allah and the Last Day.\n\nI am the messenger of Allah and I will not stop until I have done what was commanded me."}
+{"text": "The fugitive hid  from the police, so"}
+{"text": "Titans were filmed in the year 2000."}
+{"text": "B_entails_A: B\nB_contradicts_B: C\nB_neutral_A: B"}
+{"text": "B_entails_A: B_contradicts   B_entails_B: B_contradences"}
+{"text": "The appropriate title of the passage is: Goals Against Average."}
+{"text": "A person is not tearing paper"}
+{"text": "The carpenter appreciates the work of the hairedresser because he appreciate talent."}
+{"text": "day-to-day scene"}
+{"text": "The proposed framework is based on the work of Robert LaChapelle and Joseph O'Neill."}
+{"text": "circled, curved, straight, curved"}
+{"text": "*a phras from sentence one\n*a phras  from sentence two\n*a phras in sentence three"}
+{"text": "day-to-day scene includes names of people, places and things.\n\nThe first sentence describes a day-to-Day scene in which a person is listed as a name, a place and a thing. The second sentence describes an activity that is mentioned in the first sentence. The third sentence describes a thing that is mentioned in the second sentence."}
+{"text": "day-to-day scene"}
+{"text": "The CEO reminded her housekeeper to sweep up often because she often forgot"}
+{"text": "Under fifteen words"}
+{"text": "The photographer got a child to smile, so"}
+{"text": "The bomb exploded outside a navy Base near the sri lanka capital colombo on Tuesday, seriously injuring at least one person and military officials said."}
+{"text": "ingredients:\n1 lb hamburger;\n1 cup rice\n4 cups sliced zucchini\n1 onion\n1 can mushroom soup\n1 cup grated cheese\nsalt & pepper to flavor\ngarlic powder to taste"}
+{"text": "A cyclist is biking in a snow forest at day"}
+{"text": "The girl performed at a dance recital, and so"}
+{"text": "The man's eyes became infected, so he had to go to the doctor"}
+{"text": "To be deleted"}
+{"text": "After the uncovered, covered became uncovered."}
+{"text": "skateboarder, street"}
+{"text": "A.D._Isidro_Metaps\u00e1n is the numberOfMembers member of the Isidro family.\n\nThe third element of each triple is the relation between the first element and the third element.\n\nThe sentence(s) you write will be as follows:\n\nA.D. is the numberOfMembers element of the Isidro Family.\n\nIsidro is the name of the genus of insects that can be found in South America.\n\nThe third triple is the relation between the second element and the third element:\n\nThe second element is numberOfMembers.\n\nThe third is Isidro.\n\nThe Isidro family includes diurnal insects, such as bees, wasps, and beeswax flies."}
+{"text": "Esquire published her official statement on Tuesday, July 15, stating she would no longer use social media to promote herself or her work. The statement was published in the magazine's July issue."}
+{"text": "day-to-day scene contains names of people, places and things"}
+{"text": "The demographics of pakistan is a study of the population, the people, and the country."}
+{"text": "It tells of an empire, a culture and a religion that fought against each other."}
+{"text": "1: We were taking action on the matter\n2: They stole my child\n3: The mother of Alonda Luna Nu\u00f1ez says:  They stole my baby"}
+{"text": "Yes, I need a passport to go from the United States to Jamaica."}
+{"text": "Atrial nataruretic peptide (ANP) or Atrial natriuric factor (ANF) is a peptide hormone that reduces an expanded extraceclinic fluid by increasing renal sodium excretation."}
+{"text": "TIFU by: [humor]\n\nSECTION 1:\n[TIFU by]\n\nSECTION 2:\n[TIFB by]\n\nSECTIONS 3-4:\n[TIFR by]\n\nSections 5-6:\n[TIFY by]\n\nSEND\n\nSECTION 6:\n\n[TIFUY by]\n\n[TIFRY by]\n\nPOST"}
+{"text": "James was born in the year 1761."}
+{"text": "A magician's father name is Johnson."}
+{"text": "A. No, gun control does not prevent assault. B. Assault is a crime. C. Gun control would prevent assault."}
+{"text": "Some pelycosaurs given rise to a group of animal called therapsids"}
+{"text": "B_entails_A: B_contradicts_{A}\nB_contradicts_B: B_neutral_A"}
+{"text": "ingredients:\n'8 Smelt with roebels', '3 tbsp Tempurita flour (store-brought)', '2 tbsp Seppori', '1 tbsp Sesame seeds', '70ml Water', '1 Vegetables oil', '1 Lemon'\n\n directions:\n'Combine and mix all components in a bowl.',\n'Pour the vegetable oil onto the pan and season with salt and pepper.',\n'Turn the heat on and fry the smelt until golden brown.',\n\n'Transfer the smelt to a plate and serve with some lemon and green tea.'"}
+{"text": "dark: after\nlight: before\nattr: state"}
+{"text": "day-to-day scene with names of people, places and things"}
+{"text": "the arrondissence of loches is an arondissement of frances, in the indre la fraise department, centre-val d'loire region."}
+{"text": "American Airlines has reduced its full-year profit forecasts, blaming an estimated $340m (\u00a3242m) hit due to a grounding of its Boeing 737 aeroplanes."}
+{"text": "Today, I went skiing.\n\nI went skiing today.\n\nI went to the park today.\nI went to the gym today.\nI went shopping today."}
+{"text": "Edwardian era began in the late 17th century and ended in the late 19th century."}
+{"text": "day-to-day scene - dog, place, activity, name"}
+{"text": "can white corn, drained and boiled, 2 cans black beans, drained, rinsed, 1 can diced tomato, drained, and rinsed, 12 red onions, chopped, 34 cup white vinegar, 2 tablespoons olive oil, 8 cloves garlic, pressed, Tabasco sauce or hot salsa, to taste, \nMix all ingredients together in a large bowl. Cover and refrigerate overnight."}
+{"text": "Title of the passage:\nGiven a text section, come up with an appropriately titled title. The title should accurately reflect what the main focus of that section is. The title of an entire passage may be present in only a few sentences and/or be referred multiple times to the same text."}
+{"text": "Cape of Good Hope SPCa"}
+{"text": "A. Gwyneth Paltrow and her kids, Zoe and Liam"}
+{"text": "Lobates run"}
+{"text": "B_entails_A: B_contradicts_{A}_A\nB_contradicts_{B}_A: B_neutral_A"}
+{"text": "Disease has a negative impact on the organism."}
+{"text": "the analyst did not mention his allergies"}
+{"text": "A natural magnetism is used to point north by a compass."}
+{"text": "morning\nplaydate\ndinner\nsnack\nsnack\n\nplaydate\n\nplaydate"}
+{"text": "I was confused about the professor's lecture, and so I thought he was talking about something else."}
+{"text": "The pond froze  over for the winter, because the snow had accumulated in the ice and the water was freezing."}
+{"text": "The Chinese PC Manufacturer Lenovo has been accused of run a \"massive security risk\", according to a report from the cyber security firm Kaspersky Lab.\n\nThe report, which was sent to Lenovo's management, claims that the company's software was vulnerable to a \"massive security breach\". The researchers found vulnerabilities in the software that allowed hackers to compromise user accounts and files, and even hijack the computers of users.\n\nThe report claims that the vulnerabilities were discovered by a team of researchers from the company's Shanghai office, which has a staff of just one employee.\n\nThe team discovered the vulnerabilities after conducting testing on Lenovo's systems, which were installed in a number of computers belonging to customers, the report claims.\n\nThe researchers concluded that the company was \"willing or able to find security patch levels that could be considered to be substantial\" and that the company had a \"strong track record of patching its software\".\n\nThe report, however, noted that the company had not provided evidence to support its claims, and that the security researchers had not been able to prove that Lenovo had actually compromised any user accounts."}
+{"text": "Sugar causes food to taste sweet"}
+{"text": "day-to-day scene"}
+{"text": "The injured ended up being treated Outside overflowing hospitals, where crowds gathered looking for relatives.\nAt least 17 people were reported dead on Mount Everest, where it caused multiple avalanches.\nPeople treated outside hospitals ; avalances reported on Everest"}
+{"text": "The purpose of the National Foundation on the arts is to encourage the study and expression of humanities in the United States. The NEH and the NCh serve as funds for public education and the arts, and should not be abolished."}
+{"text": "beach#time=spend#time\nspend#time=time"}
+{"text": "Today, I was at the table, eating a meal.\n\nToday, I was wearing a hat, and was talking to a friend.\n\nToday, we were walking around, and talking.\n\nToday, there was a flower, and a bird was singing.\n\nToday, a woman was teaching a class.\n\nToday, the weather was hot, and rainy.\n\nToday, my mom was cleaning the house.\n\nToday, two dogs were playing in the yard.\n\nToday, someone was eating lunch.\n\nToday, they were cleaning the house."}
+{"text": "There were three different networks that were before 1969, one was called the internet, the other two were called the telegraph and the telephone."}
+{"text": "the economy of bazakh is based on industry, agricultural, and on services including tourist."}
+{"text": "Walter Rudolf hess was a swiss physiologist."}
+{"text": "Some examples of parasitic bacteria include E. coli, Salmonella, Campylobacter, and Listeria monocytogenes."}
+{"text": "the supervisor complained the hairdressinger \"s\" hair was too short because she never got a cut"}
+{"text": "day-to-day scene"}
+{"text": "The bill amends several appropriations bills to remove restrictions on the authority of the BATF to conduct activities related to criminal justice. Specifically, the bill remove provisions that:\n- limit the use of firearms trace data\n- prohibit the imposition of a require that firearms dealers conduct a physically inventory\n- require national instant criminal background checks to be destroyed within 24 hrs"}
+{"text": "If my daughter not got seat  in IIT or NITT, can she go to NIT?"}
+{"text": "1. An increasing number of employers are asking workers to boost their numeracy skills, with a worrying trend of poor maths being blighting Britain's economic growth.\n2. The British government is encouraging employers to hire more maths teachers and improve their maths skills, with the aim of boosting the economy and boosting productivity.\n3. The government is also encouraging companies to offer lessons in maths to new employees, with the aim of making them more productive and contributing to the country's economic growth."}
+{"text": "[Korea Republic, CLUBS, '14']"}
+{"text": "One hundred years ago, more than 1 million Armenian people died at the hand of Ottoman Turks.\n\nFor their part, previous popes had finessing the genocide question.\n\nPast popes had finessed this question.\n\nThere was a previous popes who had finessed the question."}
+{"text": "Elections for the counsel are held every 4 years."}
+{"text": "[\n\n[\n\n["}
+{"text": "Here is the summary of the article, which includes the main topic of the article:\n\nJoe Biden and Hunter Biden are the parents of Senator Joe Biden (D-DE) and Vice President Joe Biden (D-VA).  The Biden family has been on the front lines of the war on drugs and helped save lives through the justice system.  Joe Biden is a longtime member of the Senate Armed Services Committee and has been a close activist for gun control.  Hunter Biden, Joe Biden's son, is a Marine and a law student.  Biden has long been a prominent advocate for gun control."}
+{"text": "bangsamoro republik officially the united federated countries of bangsamoro repoblic, officially the united federates of bangsamoro repuglik was a former unrecognised breakaway territory in the Philippines."}
+{"text": "the 7 julius 2005 bombings were suicide bomb attacks aimed towards london's public transport network during the morning rush hour"}
+{"text": "A paraphrase of the question would be:\n\npresident nixon children's names?,\n\nThe answer to your question should reword the given question, but not add information or remove information from it"}
+{"text": "The british association for Applied linguistics is an academic society."}
+{"text": "[[COUNTRY, 'Brazil', 'Curitiba']]"}
+{"text": "The day started with a train stopping before the station.\n\nThe day ended with a train leaving the station.\n\nThere was a train going past the station.\n\nPeople were walking down the street.\n\nThere was an activity going on at the station.\n\nThings were moving in the station."}
+{"text": "The president robert mugabe's pay packet will be more then doubled by july nextyear to a total of ##,### zimbabwe dollars- around ##, us dollars-, the government announced Saturday."}
+{"text": "The man has been charged with murder of a woman who had been found fatally stabbed in north east London."}
+{"text": "A bandwidth no packet switching (BNPS) is a problem in distributed data processing where packets are sent to a remote server and then re-assembled in the local server. There are various techniques for deriving efficient answers to this problem. One approach is to use a distributed hash table (DHT) to identify the correct answer. If the answer is in the form of a hash table, then only the most recent entry in the table is used. If the answer is a string, then all of the lines in the string are used as input. If the answer is an address, then the list of addresses is used as the answer.\n\nBuckminster Fuller created the concept of BNPS in 1956.  In this article, he explains how BNPS is an implementation detail of a distributed hash table.  He also explains how BNPS can be used to solve real-world problems such as bandwidth allocation and caching."}
+{"text": "The veterinary committee of the European Union is established and shall consist of representatives from the Member States with a representation from the Commission as Chairman."}
+{"text": "protective eye gear can pose a hazard either to the crystalline lenses or to the retina"}
+{"text": "A_little_boy_is_playing_a_guitar: B\nA_young_boy_is_playin_a_guitara: N\n\nB_entails_A: A_little_boy_plays_a_guitaro\nB_contradicts_B: B_entails_a_guitaroo"}
+{"text": "B_entails_A: B_contradicts_{A}\nB_entails_{A}: B_neutral_A\nB_contradicts_{B}: B_neutral_{A}"}
+{"text": "france still high after their convincing win over new zealand has named the same team for next saturday in parIS"}
+{"text": "space telescope (jwst)) is a telescope that will put into space."}
+{"text": "John of London is an alum of the University of London."}
+{"text": "The location changed."}
+{"text": "DG was found in 1937"}
+{"text": "The significance of the sentence is that it says that what was Berlin was the most diverse of in the Poland."}
+{"text": "The focus of this paper was on the improvement of the patients' initial morning stiffness, grip strength and severity of nodules and vesicles. However, the benefit of the treatment was not sustained despite continued steroid and cytotoxic therapy."}
+{"text": "farmer: field\nplow: activity\n\nday-to-day scenes are often summarized by mentioning names of people, places and things."}
+{"text": "The encoder-decoder model has been used in the past for generating headline for articles. In this work we apply the Encoder-Decoder framework to generate headline for this text."}
+{"text": "Alloys exhibit orthotropic/anismotropic and heterogeneous behavior."}
+{"text": "Rihanna was 17 years old when she went to sing."}
+{"text": "The entity fought tired and was energy level up."}
+{"text": "Weezer leads singer Rivers Cuomo has suffered minor injuries after their tour bus crashed in upstase New York on Sunday (June 6, 2016). The band's management has requested that the media not report on the accident until the band has received a formal medical report."}
+{"text": "In 2019 the Brazilian government organized its first world cup, which was hosted in Brazil."}
+{"text": "Yes, they are variable. The sizes of network bandwidths are dependent on the number of networks and devices in the network and are therefore subject to change."}
+{"text": "Diane de Poitiers"}
+{"text": "The English Civil War began in 1351 when the English army defeated the French at the Battle of Wagram."}
+{"text": "There's not a major law she's named on it."}
+{"text": "japan 'S nec corp. and UNKS computer corp. of the United States said they had agreed to join together in supercomputer sales."}
+{"text": "The guard accused her receptionist of theft because she was absent from the workstation for more than an hour."}
+{"text": "He"}
+{"text": "Plankton does not need to feed, tentacles originate no does plankt."}
+{"text": "The main topic of the text is that the bus company, First Bus, is appealing a court ruling that it's policy against allowing wheelchair users to use the lift to get to and from the bus."}
+{"text": "The British weakness was made what was the attack on the British weakness"}
+{"text": "The investigation has found that a contamination spill came from a ship that was carrying toxic waste, and it has affected thousands of birds in south west Australia."}
+{"text": "Encryption Standards & Procedures Act of 1994 - Promotes the development of an information Infrastructure consistent with public welfare, National Security, and the privacy and protect of personal property.\n\nEncryption Standards and Procedure Program - Encourages the development and use of cryptography.\n\nFederal Policies and Standards - Establishes related Federal policies and standards for encryption."}
+{"text": "Mason musso is mason musso\u2019s brother."}
+{"text": "Here are some suggestions to help you meet new people on Skype:\n1. Use a real name\n2. Create an account and add friends\n3. Ask people questions about their interests\n4. Ask about upcoming events\n5. Keep the conversation short and easy to understand\n6. Keep the conversation as short as possible\n7. When you are trying to communicate, use a combination of words that will make the listener think you are talking to them\n8. Try to be specific and avoid the common phrases\n9. Use a mobile device to listen to the conversation\n10. Try to avoid using the same phrases over and over"}
+{"text": "carpet, room, wall"}
+{"text": "The teacher caught  the student chewing gum, and so he had to send the student to the principal's office for a discipline hearing."}
+{"text": "Eggs"}
+{"text": "Major public infrastructure projects are required to enable people to travel safely and efficiently between places across the country. It is often hard to predict how much public funding will be needed, and how much money will be made available. While it is important to make sure that the public finances are kept in balance, it is also important to ensure that the projects are of the highest quality. It is important to understand the types of projects that are necessary for the economy and how much money will need to be spent on them. It is also important to ensure the project is necessary and makes economic sense."}
+{"text": "The answer is related to Basel number. According to the book \"Basel Algorithms\" by Alfred Wegener, the function of a number is related to the regime of the numbers as a whole. The regime is determined by the sum of the squares of the first two numbers and the first three numbers."}
+{"text": "The force of water against the root causes a seed to emerge from a seed"}
+{"text": "The teacher took a roll, so she could participate in the activity."}
+{"text": "Bloodhound is a super sonic car that will be able to reach 1,000mph (I610km/h) on the road.\n\nThe Bloodhound SSC (super sonic car) is developing a super sonic car that can reach 1,000mph on the road.\nThe team is writing a diary about their efforts to inspire national interest and science and engineering."}
+{"text": "Flagella no sorry Cili is a flagellum that can grow up to 20 cm in length. It is a fungal species that is found in the soil and is often used in the production of beer."}
+{"text": "The michigan international speedways (or mis) is  a two-mile (2.22 km) long racing track."}
+{"text": "A man cut  in front of me in a long line, so he must be going to the store"}
+{"text": "person: standing\nbefore: standing\nafter: laying\nattr: position"}
+{"text": "The bill you are tasked with creating a Title for is under forty words and mentions the purpose of the bill in the title."}
+{"text": "Vertical, no wait, horizontal are layers of sand that are connected by a layer of sand between them."}
+{"text": "My favorite layer of earth is the polar layer. The polar layer is cold and dark, and also holds the most water vapor."}
+{"text": "ski#sky#slope"}
+{"text": "The Bank of Italy Building was destroyed by the Japanese during World War II."}
+{"text": "William Smith was a US citizen who was born in the US. He was a lawyer. He was born in the South in the USA. He was interested in the law and tried to get a divorce from his wife. When he tried to do this, he was told by his wife that she would not allow him to divorce her. So he did what he always does and crossed over 50 times."}
+{"text": "#day-to-day scene\n#people, places, and things\n\nHere is a sample sentence describing a day-by-day scene from the concept set:\n\nOn a sunny day, I went to the local grocery store to buy some groceries.\nThe grocery store was full and I had to leave after buying some groceries.\nI went to the local park to catch a glimpse of the wildlife.\nI went to a nearby neighborhood to enjoy a meal.\nI went to one of the many public libraries to study.\nI went to an art museum to see some old paintings.\nI went to work at the local gym.\nI went to sleep at night.\nI woke up early the next morning.\nI went to see my kid's soccer game.\nI went to lunch at the local cafe.\nI went to bed at night.\nI went to school.\nI woke up again the next morning.\nAlthough this is a typical day-to-day scenario, there are some important nuances that need to be taken into account. First, the environment in which the scene is set is important. If you are walking near a pool or a road that is very dark, you might not be able to see much"}
+{"text": "I think he is a great man. He is honest and decisive. He has a strong political background and is a leader in the fight for equality. I think he is a good man and I cannot wait to see what he does next."}
+{"text": "The CEO gave cash to the cashier because he wanted to pay her for his goods."}
+{"text": "day-to-day scene"}
+{"text": "LTTE was defeated."}
+{"text": "Pablo Iglesias"}
+{"text": "She acquitted herself well, so"}
+{"text": "slope is a slope, a person, place, or thing is a slope."}
+{"text": "day-to-day scene"}
+{"text": "sexual reproduction increases genetic diversity"}
+{"text": "park, skateboarder"}
+{"text": "US authorities have said that the companies found guilty of spying on their users secretly took photographs of their customers' faces and took them to their computers to photograph themselves."}
+{"text": "B_entails_A: B_contradicts _A\nB_contradicts_B: B_neutral_A"}
+{"text": "India's top courts have ruled that the trial of 8 men accused of the rape,[1] torture,[2] murder of an 8-year-old Muslim Girl must be moved out of state of Jammu and K&K. The court also declared that the trial of the two men who were also charged with the crime must continue, and they must be brought back to India. The men, who are residents of Jammu and Kashmir, were arrested in December 2012, and have been held here since then."}
+{"text": "The janitor cleaned the office because it is his job"}
+{"text": "The correct answer is \"different building construction\" because there is a difference between \"masonry\" and \"concrete\"."}
+{"text": "A planet rotating causes cycles ofday and night on that planet"}
+{"text": "Washington invited Cavelier to fight with him"}
+{"text": "The nurse was ran from the laborer because his nose was awful."}
+{"text": "A_entails_A: B_entails_B\nA_contradicts_B: B_contradicts_{A}\nB_neutral_A: B_neutral_A"}
+{"text": "People are walking through a crowded streets.\n\nPeople are walking through the street which is crowded.\n\nB_entails_A: People are going through a crowded street.\nB_contradicts_B: People are not going through a crowded street"}
+{"text": "day-to-day scene"}
+{"text": "The title of the bill is \"Medicare Link Act of 2014\". The bill mentions the purpose of the bill and mentions the preferred titles for each of the titles."}
+{"text": "day-to-day scene"}
+{"text": "Two disasters no casualties did British got"}
+{"text": "Mongols refused to worship the golden calf"}
+{"text": "The Independent Jerseycare Inquiry will begin hearings on 2022 on allegations of abuse in the island homes and foster care services from 1960 to the Present. The Health department had been given seven days to comply, after initially refusing. Officials said they are concerned individual private details would not be made public. A Department spokesman said the records have been supplied on the understanding that they will be managed in compliance with Data Protection legislation. The lawyers will write to those individuals explaining why they were needed."}
+{"text": "Airport: Board Plane\nAirport: Name of Airport\nAirport: Activity of Airport\nAirport:: Name of Activity\nAirport:: Activity of Airport\nAirports: Name of 2 Airports\nAirports:: Activity of 2 Airports\nParking: Name of Parking Place\nParking: Place of Parking\nParking: Name\nParking: Place\nParking: Address of Parking Place\nParked: Name of Car\nCar: Name of Car\nParking: Place"}
+{"text": "According to the Oxford English Dictionary, \"Losing one's virginity is when one loses the ability to have a normal sexual relationship.\"  While there are many different definitions of \"losing one's virginity,\" the most common one is when one loses their virginity because of a physical or mental disability."}
+{"text": "Judy Garland first married Barry White on August 23, 1955."}
+{"text": "A ship is used for moving humans across bodies of water."}
+{"text": "The Philippines"}
+{"text": "Mr Ian Macdonald was the first president of Zimbabwe."}
+{"text": "The attribute of the entity changed."}
+{"text": "Here is the text of the article:\n\nPresident Fernando Henrique Cardoso has opened a high-level probe into the affair in order to stem political fallout, a government official said Friday.\n\nCardoso, who is also the head of the Justice and Development Party (AKP), called the probe into the influence-peddling affair a national scandal and proposed a criminal investigation, according to the official, who requested anonymity.\n\nThe official said that Cardoso had called the probe a national scandal \"because he believes that the scandal has undermined public trust in the ruling Party and government, and that it poses a threat to the stability of the national economy.\"\n\nThe official said Cardoso had also asked for a broad investigation into the scandal to include the government, the judiciary, the military and other agencies.\n\nThe official also said that Cardoso had asked for a top-level investigation into the scandal to be opened alongside the original, previously under-reported probe into the affair.\n\nCardoso has called the scandal a \"national scandal\" and has asked the government to place on his desk a request for a criminal investigation into the scandal."}
+{"text": "A plankton has six tentacles."}
+{"text": "Day-to-day scene:\ndog#tail\n\nPeople: dog\nplace: dog\nactivity: dog\nthing: dog"}
+{"text": "Skin disorders were reported in 33%, 35%, and 35% of catering staff and women cleaners who returned a survey. Hand dermatitis occurred 15% of the catesrers and 12% of cleaners. In the majority of cases, the dermatitis was  irritant in origin and linked to their wet work occupations, such as cleaning. Few subjects were atopy, but some psoriatically patients with hand problems were experienced."}
+{"text": "This Amazon Hub is an excellent purchase. It adds additional ports for my laptop and allows me to hide it under my laptop stand to allow more space on the sides."}
+{"text": "davis love was thinking of making the worlds cup of golf a full-time occupation after taking a #stroke lead over japan in this event"}
+{"text": "She came across an unfamiliar word  in her textbook, so she figured it out by looking it up on Google."}
+{"text": "The Queen Elizabeth Land is to be named after the Queen, it was revealed yesterday."}
+{"text": "Answer: football"}
+{"text": "She felt dizzy, so she went to the doctor."}
+{"text": "Games Played; ToI Question: what is suitable title of the passage?"}
+{"text": "The mover purchased a beer for the cashiers because she is cool."}
+{"text": "The recipe calls for:\n1 can refrigerated crescent meals\n2 tablespoons margarine or butter, thawed\n2 tablespoons honey\n12 teaspoons orange peel, grated\nFold down alternating slices of dough from left to right to make a loaf.\n\nBake at 375 for 10 minutes or until deep goldenbrown."}
+{"text": "Tim_Brookes-Taylor is the birthplace of Tim Brooke-Taylor, who is from Derbyshire. Derbyshire is a county in England."}
+{"text": "The hairdressinger shouted at the driver  because she felt offended"}
+{"text": "The carpenter made the attendant a desk to demonstrate his love."}
+{"text": "Stadium, Watch, Activity, Name, Thing"}
+{"text": "so"}
+{"text": "Yes, my Galaxy ace is hang."}
+{"text": "The power attribute changed from off to on."}
+{"text": "The woman's Ring slipped off in the shower"}
+{"text": "The mayor of Atlanta, Kasim Reed, has said that he supports allowing protesters to stay in Woodruff Park despite the fact that they are occupying the park."}
+{"text": "adult sponges are sessedile"}
+{"text": "The very first Super Bowl was played in 1968."}
+{"text": "The surfer was caught by the wave, so it must be true"}
+{"text": "$250,000"}
+{"text": "Title II of the Social Security Act (Old Age, Survivors, and Disability Insurance) - Amends title II of the Social Security Law to repeal the limitation on amount of outside income which beneficiary who have attained retirement age can earn (earnings test)."}
+{"text": "B_entails_A: B_contradicts_{A}_A\nB_contradicts_{B}_A: B_neutral_{A}\nB_neutral_{B}_A : B_entails_{A}_A"}
+{"text": "B_entails_A: B_contradicts_{A}_A\nB_contradicts_{B}_A: B_neutral_A"}
+{"text": "A politician says that every dollar a county gets from new development costs us 40 to 50 cents more to provide services."}
+{"text": "The girl went downhill on her bike, so"}
+{"text": "The mover thanked the housekeeper because he was grateful."}
+{"text": "The knowledge attribute changed from present to absent."}
+{"text": "kazuera maeda (born 8september 1982) is japanese football player"}
+{"text": "A_entails_A: B_entails_B\nA_contradicts_B: B_contradicts_{A}"}
+{"text": "'earth' is the primary argument,'sun' is the secondary argument"}
+{"text": "be base in: argument 1 is against the government, argument 2 is for the government\nexxon mobil: argument 1 is for the government, argument 2 says that Exxon is a good company\nirve: argument 1 is against a country, argument 2 says that a country is a good country"}
+{"text": "day-to-day scene includes references to names of people, places and activities.\n\nExamples of common names of people, places or activities include: Benjamin, Brad, Charlotte, Chris, Diana, Eric, Florence, George, John, Jane, Jonathan, Nick, Ray, Shane, Tom, Ibrahim, Urs, Wallace, Wanda, Zoe, and Zara."}
+{"text": "This bill generally requires electronic prescribing of covered drugs that are controlled drugs under the Medicare prescription drug program. The bill also provides for the payment of a fee for electronic prescribing."}
+{"text": "The baby pulled her hair, so the mother must have had a fight with the baby"}
+{"text": "Colleges change to university because they see a decrease in the number of students who are studying in the field and want to earn a degree.  Many colleges have increased the number of students who require a degree in order to earn a living.  This increases the cost of attending college and may lead to fewer students taking the course."}
+{"text": "Day-to-day scene includes people, places, and things."}
+{"text": "Day-to-day scene includes names of people, places and things."}
+{"text": "The terrorist set the bomb off, so it is likely that he will do so again."}
+{"text": "The, no how about, the, what bridge did the German fail to demolish was a, no how about, a, no how about."}
+{"text": "B_entails_A: B_contradicts_{A}\nB_contradicts_B: B_neutral_A"}
+{"text": "Fact"}
+{"text": "[Chris Sabin', 'Eliminated_by', 'Kaz', 'TIME']"}
+{"text": "2lb. beef, chopped (with fat), 2 large onions, 2 ribs celery, 1 can tomato soup, 2 cans tomatoes, crushed, 2 cans mixed vegetables, 1 can succotash, 1 can chopped okra, salt and pepper to taste"}
+{"text": "1. Passenger stands on a train platform\n2. A train is passing by\n3. A passenger is sitting on a bench\n4. A train is approaching\n5. A passenger is inside a train car"}
+{"text": "The motorcyclists twisted the throttle, so the motorcycle spun out"}
+{"text": "According to a report from the National Center for Education Statistics, 22% of high school seniors in the United States can't go to college or start their careers."}
+{"text": "Detectives are examining whether the 59-yearold's death on Monday was linked to an incident at a supermarket in Middlesbrough, Lancashire, at about 19:30 BST.\n\nThe men, aged 33 and 40, have been arrested on suspicions of manslaughter and attempted theft. Police said the woman died on Monday at a hospital."}
+{"text": "That book is called, \"The Climb.\""}
+{"text": "The University of Ireland has said it will honour its offer to students who were affected by an admissions email mistake, if they provide a set of full examination results."}
+{"text": "day-to-day scene"}
+{"text": "day-to-day scene includes mentions of names of people: bow, ribbon, tie"}
+{"text": "A day-to-day scenes is described by using three examples from the concept set: carrot, rabbit, and eating a carrot."}
+{"text": "My foot went cold, so \n\nThe sentence you enter must be plausible because it is likely that the sentence will be true."}
+{"text": "A hurdle is being leapt by horse\nA horse is leaping a hurdle\nA rider on its back"}
+{"text": "slope: place, way: activity, name: skier"}
+{"text": "A: B_entails_B\nC: B_contradictsB\nD: B_neutral_A"}
+{"text": "sentence_B: The cats play with each other\n\nThe first sentence has a similar meaning as the second sentence.\n\nThe second sentence has a opposite meaning to the first.\n\nThe label is'B_contradict_A' if the first sentence has a similar definition to the second sentence.\nThe second sentence has the opposite definition to the first."}
+{"text": "The Church of England vicar had an affair with a mentally handicapped parishioner. The parishioner was sentenced to a long prison sentence and was destitute after the scandal."}
+{"text": "Day-to-day scene:\n\nThey took a break from their work and ate cheese and pizza.\nThey went to the park and played soccer.\nThey talked to each other in the park.\nThey went to a movie and watched a movie.\nThey went to their house and ate dinner."}
+{"text": "The laborer forcibly pushed the housekeeper out of her home to keep her safe."}
+{"text": "Vijay Soneera's first movie was called 'Mama'."}
+{"text": "The five anti-nuclear protesters were arrested after they sought to disrupt the loading of a French antarctic research and supplies vessel, a spokesman for the protesters told AFP.\n\nThe protesters were seen carrying signs that read \"No nuclear war with the US\" and \"Death to the nuclear energy\", the spokesman added.\n\nThe US ambassador to the UN said the protesters were \"very disruptive\" and \"disrupting the flow of scientific research and supplies\"."}
+{"text": "The objective of this paper is provide a summary of the ethical issues surrounding AI and its use in human society. The paper will also discuss the implications of AI safety for people and robots."}
+{"text": "Pebble Road from Cleveland to Medina\nReading Road in Cincinnati\nCleveland\nLouisville\nCleveland\nLebanon Pike\nBurkley\nLebanon\nPebble\nBurkley"}
+{"text": "The doctor xrayed the patient's Arm, so \n\nThe doctor x-rays patients with a laser, so \n\nSo, the doctor x-rayed both the patient's arm and his arm, so \nSo, the doctor has a right to x-ray both the patient's arm, and his arm, so, \nSo, the right to x-ray the patient's arm is clearly in the constitutional right, so, \nThe right to x-ray a patient's arm is clearly a fundamental right, so,"}
+{"text": "What artificial method of spreading immunity cause disease?"}
+{"text": "therefore I am indeed indifferably, I am indeed indifferingly"}
+{"text": "The Holocene was the time period from the start of the human settlement to the end of the last ice age"}
+{"text": "In USA and Canada there are 8 parrotheads. There are also 7 other parrotheads in USA and Canada that are not included in the above list."}
+{"text": "The article you are reading about is about the legal acts that regulate the market in fruits and vegetables. Your task is to create a headline for the article."}
+{"text": "day-to-day scene:\ndog#herdy#sheep\n\nplace:\nherd\nsheep\n\nactivity:\nsheep\n\nthings:\n\nherd"}
+{"text": "I did not have self-confidence because I did not have confidence in myself."}
+{"text": "The french press on wednesdaywere typically scathing in their assessment, a #-# draw, of les bleus 'performance in their opening world cup game, a #-#draw with switzerland."}
+{"text": "The toddler became cranky, so \n\nThe sentence you entered must be a likely result, so"}
+{"text": "1: In the month of October, the ICC opened a Preliminary Examination into the Situation in Palestine, paving the way for potential war crimes investigations against Israel.\n2: The United States and Israel opposed the Palestinian effort to join the court, which could open the way for war crimes investigations against Israelis.\n3: Israel and the United Kingdom opposed the move, which would open the door to war crime investigations against Israelis."}
+{"text": "*a phrase from sentence 1e*\n2: Hadi fled Aden for Saudi Arabia\n3: His accusation was based on information provided by a Saudi military official\n4: Iran was trained and armamentally equipped by Saudi Arabia\n5: The United States was aware of this and was aware of Iranian assistance to the Yemeni rebels\n6: The United States was concerned about the possibility of Iranian involvement in the Yemen conflict"}
+{"text": "B_entails_A: B_contradicts_{A}\nB_entails_{A}: B_neutral_A"}
+{"text": "vieille is a commune."}
+{"text": "day-to-day scene"}
+{"text": "yukitava omi (\u5c0f\u304c\u3067\u304d\u3087\u3046, omi yukita, born december 15) is a former japantime football player."}
+{"text": "My ex brokeup with me about 3 months after learning my grandma had passed away. She had been dating someone for almost 3 years and I knew it would come out of nowhere. I was angry and frustrated at her for approaching me with something that I didn't want to do, but I didn\u2019t know how to move forward. I felt like I had to help her move forward by telling her how I felt, but I didn\u2009t know how to do it in a way that would not impact her feelings. I decided to write the text that I had received from her, and I felt like I had already done enough. I felt like I was able to tell her that I didn\u2019t want to do it again, and I felt like she had already decided to move forward. I was able to move forward and tell her that I was going to stop trying to make things better for her, and I felt so relieved that I could finally tell her how I felt. I was able to help her move forward and I felt like I was finally able to move past this situation."}
+{"text": "They = Bob and steve\nCharlie and William's college education = grateful\npronoun: They"}
+{"text": "day-to-day scene"}
+{"text": "The bill would establish a voluntary ten-Year Insurance Program for Animals With, or Exposed to, Tuberculosis. The program would provide compensation to owners of domesticated cervid species who suffer the loss of animals due to tuberculosis infection."}
+{"text": "1. What is the budget for the current financial year?\n2. What is the budget deficit for the current financial year and how much will it affect the government's ability to fund its operations?\n3. What is the budget surplus for the current financial year, and how much will it impact the government's ability to finance its operations?\n4. What is the impact of the current deficit on the government's ability to meet its obligations?\n5. How will the new budget deficit affect the budget for the next financial year?"}
+{"text": "Michael Jackson"}
+{"text": "The homeowners dislikedtheir nosy neighbors, so the neighborhood was quiet."}
+{"text": "The EpiReader is a novel model for machine understanding of text.  It has two components that propose small set of candidate answers and formulate hypotheses based on the candidates and the question."}
+{"text": "He converted to Islam in 1995"}
+{"text": "The group that sets the time agenda is who sets the time agenda."}
+{"text": "horse#plows#pull"}
+{"text": "Colonization lacks the means to liberate people from poverty and exploitation"}
+{"text": "Parkinson's disease is a progressive neurodegenerative disease affecting brain cells throughout the body. The objective of the present study was to test the hypothesis that patients with Parkinson's disease do not have a general visuospatial deficit, as is previously reported in other studies. In order to determine if the clinical patient is indeed impaired in spatial ability, we performed a review of the literature and measured the performance of patients with Parkinson disease. We found that both accuracy and reaction time were consistently high in the spatial components of these tasks. The results of this study are consistent with the idea of a general visuospacial deficit in Parkinson's disease, and suggest that a better understanding of the nature of the problem and the potential mechanisms underlying it may help to improve the treatment of this disease."}
+{"text": "day-to-day scene#crane\n\nBelow is a list of some of the concepts that you can use to generate a sentence describing everyday life:\n\n- names of people\n- places\n- activities\n- things"}
+{"text": "A: B_entails_B\nC: B_contradicts_{A}\nD: B_neutral_A"}
+{"text": "B_entails_A: The band isn't sing. B_contradicts_{A}_A: The band sings. B_neutral_A: The band doesn't sing."}
+{"text": "The grape juice ferment, so grape juice is fermented"}
+{"text": "1. Mary was taking notes on a laptop in class.\n2. Her laptop suddenly turned off, causing her to call the teacher.\n3. The battery on her laptop malfunctioned, causing her to lose track of time.\n4. Mary called the teacher for help.\n5. She was able to get her laptop through the replacement program."}
+{"text": "The papers were scattered, so \n\nThe papers were disjointed, so\n\nThe papers were scattered so much that they became a mess"}
+{"text": "The man threw an empty can onto the street."}
+{"text": "Emily Firrell"}
+{"text": "Given a question:\n\nWhat religion does andre hurleys practice?\n\nAndre Hurley is a football player for Liverpool Football Club."}
+{"text": "This item was research and selected for the added component to my new server for Business purposes and network system."}
+{"text": "A woman is standing and isn\u2019t looking at the waterfall.\n\nA woman is sitting and isn\u2019t look ing at the waterfall."}
+{"text": "The production arm of ITV has seen revenues rise on the back of a strong performance from its product development arm."}
+{"text": "A man is slicing a potato\n\nThere is no man slicing a potatoes\n\nB_entails_A: B_contradicts: A man is slicing an apple. B_contradicts': A man is not slicing an apple."}
+{"text": "My D-link router has a USB plug for a backup drive.  Bad idea!\n\nThe router slowed it down toa crawl.  When plugged in my desktop it's fast  and dependable.   As long as my desk is running, with a Password I can also use it while on the network."}
+{"text": "After the after event, the characteristic of the meat changed."}
+{"text": "Sutton: He sits on the 6th Circuit Court of Appeals inincinnati\nHis opinion: November 2014\nHis opinion goes up against an avalanche: avalanche of judicial rulings strikingdown such bans\nSutton: His opinion, issued in November, goes up against an avalanche that includes rulings striking down bans on same-sex marriages."}
+{"text": "Tugh"}
+{"text": "temperature changed from warm to cold"}
+{"text": "The answer is Jeff Goldblum, who is also the star of the upcoming movie, \"Moonlight.\""}
+{"text": "The supervisor yelled because he liked to pick at his employees."}
+{"text": "Gustav Holst"}
+{"text": "There are several solutions to this problem. For example, you could use a proxy to connect to a web server that is running on a different port than the one that the web server is listening on. Alternatively, you could use a simple HTTP proxy that uses a port number that is different from the port that the web server is trying to reach."}
+{"text": "The Rhine is wide in both directions"}
+{"text": "The man was found, so \n\nNote: The sentence you enter must contain at least one item that is likely to occur in the sentence you are attempting to describe."}
+{"text": "The appropriate title for the passage is'Women's football team represents the Gambian national football team '."}
+{"text": "Our new model performs better than a state-of-art structured solver when solving complex questions of varying difficulty."}
+{"text": "The 2017 FIFA FIFA U-17 World Championships was organized by FIFA and took place in India between 5 October and 28 October 2017. The tournament marked the first times India have hosted a FIFA competition and the first Asian hosted FIFA U-17 World Championship since 2013."}
+{"text": "The child kicked a stack of blocks, so it must be true"}
+{"text": "A woman dressed in elegant clothing and an elegant woman are inside a crowd of people. \n\nB_entails_A: B_contradicts_{A}\nB_contradicts_B: B_neutral_A"}
+{"text": "The answer is that latency is a measure of the time it takes for data to travel between nodes in a distributed system. Latency is often considered to be a ranking of the number of network requests and responses between the nodes. For example, a system with a low latency might have a lot of data moving between the nodes, and a system with a high latency might have a lot less data moving between the nodes."}
+{"text": "Today, I walked through the city center and found a corner table with a book on it. I took a look at the table and saw that it was covered in a carpet. I walked over to the table and took a look at the books on it. I noticed that the books had names like \"The Herbalist\" and \"Healing Medicine.\" I went over to the corner table and took a look inside. I noticed that the table had a list of people on it. I asked the people who were there what their names were. They told me that they were \"Carpet\", \"Lie\", \"A Man with a Dark Side\", and \"The Wall\". I asked them what their names were and they told me that they were named \"Carpet\" and \"Lie\". I asked them what they were doing in the city and they told me that it was their job to make money and they were helping others. I asked them what their jobs were and they told me they were \"Carpet cleaning\", \"Launder\", and \"Sell\". I asked them what the names of their jobs were and they said \"Carpet cleaning\", and \"Launder\". I asked them what names they were wearing and they told me that \"Healing Medicine\" was"}
+{"text": "The USA population is about 4.5 billion"}
+{"text": "day-to-day scene:\nelephant eats grass\ngrass: elephant\n\nactivity: elephant runs\n\nplace: elephant park\n\nactivity: elephant plays\n\nthings: elephant leaves"}
+{"text": "That is, 8 hours and 40 minutes."}
+{"text": "The navy bombed ship, so it must be because the ship was being used as a weapon"}
+{"text": "Coach hire company new adventure travel is to take over the  Cardiff Airport shuttle service launched in 2013."}
+{"text": "*a phras from sentence1*\n*a phras in sentence2*\n*a phrase in sentence3*"}
+{"text": "The Crouching Woman (L'Misereuse Accroupie) is a painting by Pablo Picasso that is hidden under one of his great paintings. The painting is regarded as one of the most important paintings of modern art."}
+{"text": "In this example, you can answer the question who is the father of accounting by stating that he described how an accountant should calculate a profit and loss."}
+{"text": "*a phrase from sentence 1e*\n*a phrase from paragraph 2*\n*a phrase of sentence 3*\n\n*a phrase of the first sentence"}
+{"text": "joseph stiglitz has a career in finance"}
+{"text": "No more than 10 US presidents are alumni of the school."}
+{"text": "While IDEO is a global technology company, Paris is a well-known fashion and technology city."}
+{"text": "I tossed the football upwards, so the ball came to rest on the ground"}
+{"text": "day-to-day scene"}
+{"text": "virusiato clemente Da Cruz, an Angolan Poet and politician, was born 1928 in kikuvo(porto amboim) angola and died in Beijing, china on 13june1973."}
+{"text": "Friction is used for stopping a car by brakes."}
+{"text": "Jane: Hello.\nEmma: Hello.\nLucy: Hi.\nSusan: Hello.\nAdam: Hi.\nSusan : Hi.\nAdam: Hi.\n\nLucy: Hi.\nAdam: Hi."}
+{"text": "The skunk spray the dog, so"}
+{"text": "1. When the delay is detected, the individual force is delayed by one second.\n2. When the delay is not detected, the individual force remains the same but the delay is reduced by one second."}
+{"text": "The nurse sent him to the hospital because of health."}
+{"text": "The Rockefeller Center is a large Christmas tree planted annually in Rockefeller Center in Midtown Manhattan. The tree is erected in November and lit in a publicly ceremony in late November or December. Since 1997, the lighting has been broadcast Live and followed by thousands of millions of people on NBC's Christmas in Rockefeller Center telecasts."}
+{"text": "day-to-day scene with mentions of people, places, and things"}
+{"text": "A_entails_A: B_entails_B\nA_contradicts_B: B_contradicts"}
+{"text": "The phrase 'One Boston Day' was created to recognize acts OF valor and encourage kindness among Bostonians."}
+{"text": "A dog is missing the ball\nA dog is catching a ball"}
+{"text": "dirty: before, after, cleanness\ncleanness: after, before, after"}
+{"text": "The woman upgraded his computer hardware, so"}
+{"text": "A woman is pouring ingredients into an empty bowl"}
+{"text": "In what groups were steve winswood in?"}
+{"text": "They were taken alive, they want back alive"}
+{"text": "My friend told us about this job and I was interested in getting it. She told me months before that she would split the bonus with me. I asked her if she would tell me the details, and she didn't want to. I asked her if I could ask her if she would remember me, and she said she would. After I got the offer she told me that she would split it. I asked her if there was any chance that she could talk to me about it, and she said she wouldn't remember me. I was so frustrated that I went to her in-person, and she told me that she was sorry, and that she would try to make it up to me. I was so disappointed that she didn't remember me, and I felt that I owed her something. I felt like I owed her something, and I really didn't want to owe her anything. I was so angry that I felt like I had no other choice but to tell her that I didn't remember her, and I was so upset that I didn't know how to express my feelings. I felt like I had let her down, and I wanted to turn the situation around and save her from herself. I asked her if it was fair that I should ask her if"}
+{"text": "Nearbuy is currently experiencing funding issues, and we are looking into ways to increase our funding levels."}
+{"text": "Horrible, blown up when I turned it off, like littlerily key popped of. So disappointing, I'll probably never buy a new laptop ever again."}
+{"text": "letter from arcelor to mittel"}
+{"text": "Amendment 17th Amendment"}
+{"text": "All of them are limited"}
+{"text": "The main event is that someone is dating someone else, and the reason is jealousy. The jealousy leads to a complex conflict between the two people, which leads to a conflict between the person who is dating someone else and the person who is dating the other person."}
+{"text": "The largest region or uh port is called Europe."}
+{"text": "Learning a stochastic sampling distribution over an ensemble of agents leads to a new algorithm called soft Q-learning that expresses the optimal policy using a Boltzmann distribution, which we confirm in simulations with swimming and walking robots"}
+{"text": "Ricardo Rocha"}
+{"text": "Denmark and Sweden are separated by the Danube River."}
+{"text": "Title: Home Health Care Planning Improvement Act\nAuthor: California Senate\nSponsors: Senate bill C-2468\nCommittee: Senate Health, Education, Labor, and Pensions Committee\nPrimary Objectives: To allow Medicare to pay for home health services ordered by a nurse practitioner, a certified nurse- midwife, or a physician Assistant.\n\nLegislation: Senate bill C-1404\nText: H.R. 2857\nPublic Law No: 115-74\nDate: 2017-06-16\nIn the Senate, the bill was referred to the Health, Education, Labor and Pensions Committee."}
+{"text": "I rubbed the soapy water between my hands so that it would soapy up."}
+{"text": "The use of atracurrium during major abdominal surgery was evaluated in 20 infants with hepatric dysfunction caused by biliary Atresia. An initial, low dose of atracurium was given to all patients (n = 20) and subsequent neuromuscular blockade with a peripheral nerve stimulating device was observed in only two patients."}
+{"text": "The university, i'd rather ask are, apart of what association, is the Maroons."}
+{"text": "The consortium led by us investment banking group have offered to buy 10% of the shares of the british port operator, the biggest port operator in the country, for a reported $8 billion."}
+{"text": "Defendants Howard Stern and Drs. Sangeep Kapoor and Khrisene Eroshevich were on trial for conspiring to provide Smith with an excessive amount of prescription drugs and other offenses. They are not charged with her 2007 overdose death."}
+{"text": "[Patton State Hospital, County, San Bernardino]"}
+{"text": "The article you are reading is titled: Hong Kong signs a breakthrough air services agreement w with the United States on friday that will enable us airlines to carry freight from asian destinations via the territorial territory."}
+{"text": "I pushed the Gas pedal, so the gas would not burn, so the car would not run out of gas"}
+{"text": "ingredients:\n2 eggs\n2 tsp almond duk kah\n<sep> directions\n\nPlace 2 eggs in a large saucepan and cover with water. Bring to a simmer. Boil for 3 mins then drain. When cooled enough to handle, peel Eggs."}
+{"text": "name: restaurant, eattype: fast food, cuisine: restaurant, familyFriendly: no,\n\nThe restaurant, named Eattermag, is a fast food restaurant in the city of San Francisco."}
+{"text": "The developer visited a hairdresser because they needed to cut their hair."}
+{"text": "Bangladesh football fans in the city of Dhaka will be able to enjoy the world cup live on the big screens at city locations.\n\nThe organizers of the world cup said it was the world's largest sporting event and the most attended sporting event in the history of the event.\n\nThe cricket world cup is being broadcast live on all major streaming services including Amazon Prime, HBO GO, and multiple TV channels across the world."}
+{"text": "A man is slicing some bread\nA man is cutting a slice\nB_entails_A: B\nB_contradicts_B: B"}
+{"text": "After the event, the shape of the rope changed from knotted to straight."}
+{"text": "lahja tuulekki ukkola (\"nee\u0301e\" parveigneen; 28 noveember 1943 \u2013 28 may 2019).was a finnish politician who was also a journalist."}
+{"text": "TIFU by: this happened a month earlier.\n\nsituation that caused humor: we're spraying it for Bed Bug Buf"}
+{"text": "ingredients:\n3 cups water\n3 knorr reduced sodium Chicken flavor bouillon cube\n2 cups angel hair pasta\n<sep> directions\n\nBring water and Knorr Reduced Sodium Chicken flavor Bouillion Cubes to a boil. Stir in egg noodles. Return to a boil. Reduce Heat to medium-high and Cook until noodles are tender, About 4 minutes."}
+{"text": "Locations:\nLocations are mentioned in various places in the world.\n\nPeople:\nPeople are mentioned in various places.\n\nThings:\nThings are mentioned in various places, such as in a car, at a store, or at a bus stop.\n\nSites:\nSites are mentioned in various places such as a restaurant, a park, or a museum.\n\nActivities:\nActivities are mentioned in various places including playing sports, eating dinner, working out, going to the gym, or taking a break.\n\nThings that can be done:\nThings that can be performed are mentioned in various places like a club, a church, a park, or on a boat."}
+{"text": "born 26 july 1981)\""}
+{"text": "So, the nurse prepared the needle for her patient's injection, so"}
+{"text": "Manufacturers are ordering more goods for the month of September, which is the second-highest monthly volume in recent years, the Commerce Department said here this week."}
+{"text": "day-to-day scene:\n\ndaughter: smiling, mother: reading, smilie: being\n\nplace: friend, place: city, activity: walking, activity: talking, hire: person, visit: place"}
+{"text": "Chicago is part of Illinois"}
+{"text": "Toads are healthier than humans because fluoride prevents tooth decay."}
+{"text": "So, he moved out of his apartment."}
+{"text": "The concentration of interferon alpha was measured by a specific Two-Site Immunoradiometric Assay in a variety of fluids collected during human pregnancy. The concentration of interferons was approximately 0.1 u/ml.\n\nFetal blood, fetal organs and placenta all contained little or no interfereon-alpha.\n\nIt is suggested that this mayplay a role in regulation ofthe maternal-fetal graft relationship."}
+{"text": "# giraffe#zoo"}
+{"text": "Marianna Polos died on June 14, 2023."}
+{"text": "The boy turned off the lid, so \n\nThe sentence is plausible because the sentence is likely to be true."}
+{"text": "Today i was at work and a coworker was trying to grab my door while i was waiting for her to open it. I was like \"oh noes don't worry you're not going to get caught\" but she kept saying \"it's ok\" and smiling. I was like \"okay fine, just don't startle her\" and she just kept going. I finally decided to give up and said \"it's ok, just don't startles her\" and she just smiled. I was like \"well you might as well get out of the way\" and she did. I was like \"why don't you just open the door\" and she did. She was probably 20 feet away when i opened the door. I walked over and thanked her for opening the door and she thanked me and let me in. I was like \"it's ok, you're welcome\" and she told me to go ahead and get out of the way. I did and she started walking out of the room. I was like \"now that was funny\" and she was like \"yes\" and walked out the door. I was surprised that she was not embarrassed by it or ashamed of the situation. I was like \"that was so funny\" and she was all"}
+{"text": "Baby boy develops burn that heals normally over a month, then develops blisters over scar"}
+{"text": "Be makes in, make in, make in"}
+{"text": "1: People are dying in Ukraine every day\n2: Ukraine is looking forward to becoming an democratic country and live under western democracy\n3: Ukraine is looking for a democratic country, Klitschko says"}
+{"text": "[[TABLECONTEXT]\n\n[TABLECONTEXT]"}
+{"text": "Many people are unwilling to buy these cars."}
+{"text": "A light bulb converts electrical energy to light energy when it is powered on."}
+{"text": "You can access your Yahoo email account by logging into your account and entering the password provided."}
+{"text": "day-to-day scene includes mentions of names of people.\n\nplace includes mentions of places.\nactivity includes mentions of activities.\nthing includes mentions of things."}
+{"text": "painting day-to-day scenes using names of people, places and things"}
+{"text": "Herman Cain"}
+{"text": "Corbyn's ideas on foreign policy could change the UK's relationship with the world and could impact on our ability to achieve our international responsibilities. He has called for a more interventionist foreign policy that would align the UK's foreign and security policy with the US and other global powers. He has also advocated for a more balanced foreign policy, with more investment in the defence of our interests and a greater focus on regional security."}
+{"text": "My friend called an imposter and I was like \"what the hell, why do you want to talk to me?\" and she said \"you're just not ready to talk to me yet, okay?\" and I was like \"okay, let me try to convince you\" and she said \"I'll text you later\" and I was like \"but I really need to talk to you right now\" and she said \"but I don't want to text you right now, I need to talk to you now\" and I was like well, why not, I'm not ready to talk to her yet, it's not gonna work, I'm just not ready to.\nSo I tried to convince her that I was ready to talk to her, but she just kept saying \"I don't want to talk to you right then, I need to get ready\" and I was like ok, okay then, let me try to persuade her that I'm ready to talk to her.\nBut then she said \"I don't want you to talk to me, I want you to hang up\", and I was like \"well, if you don't want to talk, what are you gonna do?\" and she was like \"oh, you're not ready to"}
+{"text": "In this context, \"rightness\" refers to an attribute of an object or event which is universally recognized as being positive or negative. The term \"rightness\" is also used in terms of a moral or social value. If someone is right, then they are morally right. If someone is wrong, then they are wrong. The meaning of \"rightness\" is the result of a subjective judgment which is independent of established social or political norms."}
+{"text": "MALAYSIA'S PAST PM MAHASTIR MOHAMAD: I WILL BE RELEASED BEING RELEASED AT THE END OF THE MONTH\n\nI WILL BE RELEASED BETING RELEASED AT THE END of the MONTH\n\nI AM RELEASED BEING RELEASED AT THE END OF THE WEEK\nI AM RELEASEDBEING RELEASED AT THE ENDS OF THE WEEK"}
+{"text": "The US Congressional and California state house bills, H.R. 683 and 684, would extend through 2015 the tax credit for non-business energy efficient improvements, excise tax credits and payments to alternative fuels, biodiesel, and renewable diesel fuel mixture, and alternative fuels relating per the IRS Code section 13000-15, and would eliminate the income tax credit for renewable diesel fuel and biodiesel. The income tax credit for renewable fuels would be equal to the tax credit for liquefied petroleum gas, and the income tax rate for liquefaction would be the same as the rate for petroleum gas."}
+{"text": "Two, one for the Vice President position and one for the Representative position."}
+{"text": "The Yuan"}
+{"text": "After the on, the power went off."}
+{"text": "Tranidad and Tobago is the river that flows into the Caribbean"}
+{"text": "arguments become chuck when 'chu' becomes a verb\narguments become chucky when 'chuck' becomes a noun"}
+{"text": "The ensemble of base classifiers is derived by learning Na\u00efve Bayesian classifiers on different training set.  The proposed mechanism to learn sequences of datasets using data chunks paradigm."}
+{"text": "The Muskogee-speaking tribes are the Siouan-speakers."}
+{"text": "Amazon Customer Review"}
+{"text": "So, the bodybuilder lifted weights, and so he must have had some sort of genetic abnormality."}
+{"text": "ingredients:\n1/2 cup taisini\n2/3 cups water\n3 tablespoons fresh lemon juice\n1 clove garlic, diced\n1 tablespoon olive oil\n3/4 teaspoon sea Salt (or to taste)\nBlack pepper to taste\n\ndressing will keep 5 to 7 days in the refrigerator"}
+{"text": "Here is a title for your review:\nChargers that charge multiple devices\n\nThese chargers are amazing. I've always wanted to charge my phone and iPad, but couldn't find a way to charge them. Then I saw this review and thought, \"why not?\" It's not just the power, it's the speed. I've charged my iPad and iPhone, and they both charge in under 5 minutes. The only reason I'm not giving this a 5-star rating is because it took longer than I'd like to charge my iPad. But I really like the idea of charging multiple devices at the same time.\n\nOverall, I'm very happy with this purchase. I'm definitely going to be ordering more of these chargers."}
+{"text": "The best Nuru massage parlor in Bangkok is called Siam Parlour. It is located in the heart of Bangkok."}
+{"text": "The task is to generate headline for this text."}
+{"text": "day-to-day scene\n\nRent a cat"}
+{"text": "Under fifteen words."}
+{"text": "Shirley Temple black's husband died on September 11, 2001."}
+{"text": "Meiosis is the type of cellular division that produces gametocytes."}
+{"text": "*a phras from sentence1*\n2: Democrats have become about protecting the presidency rather than proposing bold new policies\n3: He says Democrats who propose reform offer only Hillary Clinton"}
+{"text": "The farmer trusted the receptionist because she had organized herself well."}
+{"text": "The construction worker made a request of the hairdresser before anything else."}
+{"text": "Tyler Perry"}
+{"text": "Mushrooms, butter, flour, milk, salt, cream"}
+{"text": "2048"}
+{"text": "You can become more smarter than the others by being more honest."}
+{"text": "Monday, September 26, 2023\nnurse at the hospital visited the patient\nthe patient received a weekly check-up"}
+{"text": "They are all good."}
+{"text": "Her parents are Tony and Maureen Cowry"}
+{"text": "She got out the pool because she shivered"}
+{"text": "The Himalayas"}
+{"text": "A: B_entails_B\nC: B_contradicts-B\nD: B_neutral_A"}
+{"text": "the location was removed from the game\nthe player was removed from the game"}
+{"text": "fernando was a Mexican novelist, essayist and poem poet."}
+{"text": "1. John Doe, is a serial killer who murdered his wife, causing her death.\n2. His wife had a history of cancer, and was suffering from chronic pain and depression.\n3. His wife had Alzheimer's disease, and his cognitive skills were severely affected.\n4. His wife had 3 children, and they all suffered from autism.\n5. His career was destroyed by his wife's death.\n6. He had built a house, and was afraid to leave it.\n7. He had an eating disorder, and was often gloomy.\n8. He was obsessed with his dead wife's remains, and was known to fantasize about her death.\n9. He would steal his wife's items, and use them as weapons.\n10. His wife had suffered from depression and anxiety, and was feeling very lonely."}
+{"text": "Cheryl went to high school in Chicago"}
+{"text": "The following are arguments against the president: 'he was elected', 'he was elected by the people', 'he won because of his wealth', 'he won because he's a strong person', 'he won because people voted for him', 'he won because the economy was improving', 'he won because his opponents were wrong', 'he won because we were lied to', 'he won because there was a war happening', 'he won because they were trying to take away our rights', 'he won because it was a close race', 'he won because a lot of people voted for him', and 'he won because he was a strong person'."}
+{"text": "0.5 = 2.14\n\nSubtraction of 2.14 by 0.5 is 2.14 / 0.5 = 14.7"}
+{"text": "The flashlight was still powered, so \n\nThe sentence is plausible because the sentence is likely to be true."}
+{"text": "Doctor Who - The One Who Loves Me"}
+{"text": "Yes, there is a strong correlation between Trump supporters and their IQ.  The correlation is about 0.72 which is very strong and indicates that there is some sort of correlation."}
+{"text": "Vertebrates are all chordate animals with a backbone."}
+{"text": "bill clinton said thursday i would propose a new plan that will reopen many government operations and give us more money to pay our bills and help our economy grow.\n\nhe repeated his intention to veto the republican budget bill."}
+{"text": "day-to-day scene: baked bread,       bread     \n\nplace: bakery, church, town, city, city hall\nactivity: wearing a bread loaf, playing with a child, taking a stroll, cooking, reading, reading a book\nthing: oven, chair, spin cycle, car, plant, chair, bed, table, chair, table"}
+{"text": "al-qaida in iraq appointed a radical named sheikh abuhamza to succeed jordanian born abu musab al sharqawi who was killed by a US air strike in an internet message posted yesterday."}
+{"text": "Open in: 'june' \nCovid: 'june'"}
+{"text": "This bill amends the Internal Revenue Code, to establish the Railroad Trust fund consisting of amounts derived from tax on trains to be used for the purpose of carrying out this Act."}
+{"text": "The salesperson said to the baker, \"You should stop selling bread because you found mold in the kitchen\".\n\nThe baker replied, \"Yes, I know, but I've been having mold in the kitchen for months.\""}
+{"text": "# Name of person: Shade\n# Place: Tree\n# Activity: Walking\n# Thing: Flower\n\n# Color: Red\n# Temperature: Warm\n# Day: Day\n\n# Name of tree: Shade\n# Color of tree: Red\n# Temperature of tree: Warm\n# Day of tree: Day\n\n# Color of flower: Red\n# Temperature to look at: Warm\n# Day and day of flower: Day\n\n# Place of tree: Tree\n# Activity of tree: Walking\n# Thing of tree: Flower\n# Color of tree : Red\n# Temperature of the tree: Warm\n# Temperature to look: Warm\n# Day tree: Day\n\n\n# Color of tree and flower: Red\n# Color of tree only: Red\n\n# Temperature of the red tree: Warm\n# Direction of tree: Down\n\n# Direction of flower: Up\n\n# Flower color: Red\n# Flower type: Flower\n\n# Warm color of the tree: Warm"}
+{"text": "Tropical Storm Philippe is about to make a dangerous turn south and is expected to dump heavy rain on Central Cuba and the Bahamas.  The center of the storm is expected to move across south Florida on Sunday morning.  There are also strong winds and torrential rain expected for the next several days."}
+{"text": "nectar is used for attracting Pollinators by Plants."}
+{"text": "The best answer to what'sup is to acknowledge that there is no single answer and that there is no right or wrong answer."}
+{"text": "Cables appear very well made, of high quality materials. Pluggs firmly into the outlets providing an electrical connection."}
+{"text": "The assistant laughed because the janitor told a funny joke."}
+{"text": "The mover employed the accountant because he wanted a balance in his finances."}
+{"text": "A_contradicts_B: B_entails_B\nA_neutral_A: B_contradicts_{A_contradicts}\nB_entails_A: B_cute_{panda}_not_lying_down"}
+{"text": "Major: Americans are generally polite and considerate.\nDefining characteristics: Americans are diverse in their culture, religion, and gender."}
+{"text": "The paper is titled \"Protective eye gear may be a risk factor for macular degeneration.\" The main focus of the paper is on the epidemiological evidence that suggests that protective eye gear can be a risk factor for Macular Degeneration."}
+{"text": "The patient was dehydration, so he went to the hospital"}
+{"text": "B: brown dogs \nC: frisbee\nD: water"}
+{"text": "Today, I was walking on the street, when I saw a man in a blue jacket walking towards me. I stopped and asked him if he was a police officer. He said yes, and I asked him where he worked. He said he was a mechanic. I asked him about his car, and he told me it was his car. I asked if he had any money, and he said yes. I told him I would give him some money if he would give me his car, and he said yes, and I gave him his car. I walked back to my car, and he was still there. I stopped and asked if he had any weapons, and he said no, and I told him to get out of my way. I told him I was going to call the police, and he said yes and I left. I went back to my car, but he was still there. When I got back to my car, I saw that he was still there, and I told him that I would give him his car and he said yes. When I got back inside, I saw that he had a gun, and I told him I would call the police. He said he would, and I called the police. When I got back outside, I"}
+{"text": "San Francisco"}
